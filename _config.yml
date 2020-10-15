@@ -1,0 +1,106 @@
+# Temporary GitPage Host setup
+title: CS236G Generative Adversarial Networks (GANs)
+baseurl: "/"
+repository: "cs236g"
+
+# Theme settings
+doks:
+    color_theme: blue
+    header:
+        logo:
+            text: CS236G
+            image: true
+        nav:
+            - item_name: Syllabus
+              item_url: '/syllabus'
+            - item_name: Office Hours
+              item_url: '/officehours'
+            - item_name: Project
+              item_url: '/project'
+            - item_name: Section
+              item_url: '/section'
+            - item_name: Lecture
+              item_url: '/lecture'
+            - item_name: Blog
+              item_url: '/blog'
+            - item_name: FAQ
+              item_url: '/faq'
+    footer:
+        content:
+            logo:
+                text:
+                image:
+            copyright: Copyright &copy; 2020. - Stanford University <br>All rights reserved.
+    google_analytics: UA-180658495-1
+    comments:
+        disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+plugins_dir: ./_plugins
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md', 'scripts']
+permalink: /:title/
+
+# Course logistics
+course:
+    quarter: 2020-21 Winter
+    time: T/Th 2:30 PM - 3:50 PM
+    venue: '<a href="https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09">Zoom</a>'
+    piazza: &pz 'https://piazza.com/class/kf0h64h1gem56g'
+    queuestatus:
+        url: &qs 'https://queuestatus.com/queues/1147'
+        name: 'CS236G (2020-21 Winter)'
+    canvas: 'https://canvas.stanford.edu'
+    qa: &qa 'cs236g@cs.stanford.edu'
+    midterm_time: ''
+    project_timeline:
+        proposal: 2020-09-30T23:59:00-07:00
+        milestone: 2020-10-30T23:59:00-07:00
+        poster_and_report: 2020-11-17T9:50:00-07:00
+        long_date_format: "%B %-d, %A %I:%M %p"
+        syllabus_date_format: "%m/%d %A %I:%M %p"
+    links:
+        syllabus:
+            icon:
+            content: Syllabus
+            url: '/syllabus'
+            external_url: false
+        piazza:
+            icon:
+            content: Piazza
+            url: *pz
+            external_url: true
+        video:
+            icon:
+            content: Lecture videos (Canvas)
+            url: 'https://canvas.stanford.edu/courses/125215/external_tools/5384'
+            external_url: true
+        queuestatus:
+            icon:
+            content: QueueStatus
+            url: *qs
+            external_url: true
+        project_appt_calendly:
+            content: Meet with Project TA
+            url: '/officehours/#table'
+            external_url: true
+    staff:
+        - name: Sharon Zhou
+          type: Instructor
+          url: https://www.linkedin.com/in/zhousharon/
+          image: sharon.png
+    
+    ta:
+        - name: Gan Gogh
+          type: TA
+          url: https://artbreeder.com/
+          image: nophoto.jpg
+          zoom_id: 000
+          zoom_link: https://stanford.zoom.us/j/000
+          calendly: https://calendly.com/cs236g/gan-gogh
