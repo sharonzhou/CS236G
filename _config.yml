@@ -1,8 +1,6 @@
-# Temporary GitPage Host setup
 title: CS236G Generative Adversarial Networks (GANs)
-baseurl: "/"
+baseurl: "https://cs236g.stanford.edu"
 repository: "CS236G"
-site: https://cs236g.stanford.edu
 
 # Theme settings
 doks:
