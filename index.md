@@ -52,19 +52,21 @@ Students are expected to have the following background:
 Here's more information about the class grade:
 
 #### Breakdown
+ 
+* 50%: Final project - creativity and equal participation within a group will be rewarded
+* 25%: Midterm
+* 25%: Programming assignments & quizzes
+* 0%: Attendance
+* Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 
-Below is the breakdown of the class grade:
- * 40%: Final project (broken into proposal, milestone, final report and final video)
- * 25%: Midterm
- * 25%: Programming assignment
- * 8%: Quizzes
-
-**Note:** For project meetings, every group must meet 3 times throughout the quarter:
- 1. Before the project proposal deadline to discuss and validate the project idea. This can be with any TA.
- 2. Before the milestone deadline, *with your assigned project TA*.
- 3. Before the final report deadline, again with your assigned project TA.
-
-Every student is allowed to and encouraged to meet more with the TAs, but only the 3 meetings above count towards the final participation grade.
+##### Project deliverables
+* 5% Inspo: Find sources of inspiration that you think are cool, compile list
+* 5% Idea spew: Create a list of 3+ project ideas you'd be interested in exploring - data and/or application and/or model have to be novel
+* 10% I haz the data: Get the data and enough of it. Show off some examples.
+* 20% Inkling: Run a baseline model on your data and get cracking!
+* 20% Ignition on: Get a better SOTA (or your own) model running.
+* 25% Invest in a risk: Let your creative juices take the reins for a bit and decide what to do for an experiment or two. It doesn't have to work, improve anything, etc. It probably won't, but you do it because it might and you're kind of curious.
+* 15% Equal participation within your pair (N/A if flying solo): This to reduce the case where 1 person does all the work, and make it a bit easier on an individual.
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
@@ -72,13 +74,7 @@ From the Coursera sessions (accessible from the invite you receive by email), yo
 You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/000). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **TBD**.
 
 #### Late assignments
-Each student will have a total of ten free late (calendar) days to use for programming assignments, quizzes, project proposal and project milestone. Each late day is bound to only one assignment and is per student.
-
-**For example**, if one quiz and one programming assignment are submitted 3 hours after the deadline, this results in 2 late days being used.
-
-**For example**, if a group submitted their project proposal 23 hours after the deadline, this results in 1 late day being used per student.
-
-Once these late days are exhausted, any assignments turned in late will be penalized 20% per late day. However, no assignment will be accepted more than three days after its due date, and late days cannot be used for the final project and final presentation. Each 24 hours or part thereof that a homework is late uses up one full late day. Also, note that if you submit an assignment multiple times, only the last one will be taken into account, in which case the number of late days will be calculated based on the last submission.
+No late days. We won't grade them. You'll probably still do fine in the class.
 
 #### Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
