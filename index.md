@@ -6,9 +6,8 @@ description: GANs have rapidly emerged as the state-of-the-art technique in real
 buttons: [syllabus, piazza, video]
 micro_nav: true
 ---
-
+layout: default
 Hello World
-
 ---
 
 ## Course Information
