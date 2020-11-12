@@ -152,7 +152,7 @@
 			offset: {
 				top: function() {
 					return (
-						this.top = $( '.hero-subheader' ).outerHeight( true ) + 100
+						this.top = $( '.hero-subheader' ).outerHeight( true ) + $( '.tmp_sofian' ).outerHeight( true ) + 100
 					);
 				},
 				bottom: function() {
