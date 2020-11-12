@@ -2,7 +2,7 @@
 layout: default
 keywords:
 title: CS236G Generative Adversarial Networks (GANs)
-description: GANs have rapidly emerged as the state-of-the-art technique in realistic image generation. You'll start with basic GANs and learn all the way up to their state-of-the-art forms. The applications span realistic image editing that is omnipresent in popular app filters, enabling tumor classification under low data schemes in medicine, and visualizing realistic scenarios of climate change destruction. You'll also get to examine key challenges of GANs today, including reliable evaluation, inherent biases, and training stability. After this course, students should be familiar with GANs and the broader generative models and machine learning contexts in which these models are situated. 
+description: GANs have rapidly emerged as the state-of-the-art technique in realistic image generation. In this course, you’ll learn the theoretical intuition behind GANs, from their simplest to their state-of-the-arm forms. The course will also discuss application areas that have benefitted from GANs, including realistic image editing that is omnipresent in popular app filters, and tumor classification under low data schemes in medicine. You'll also get to examine key challenges of GANs today, including reliable evaluation, inherent biases, and training stability. After this course, students should be familiar with GANs and the broader generative models and machine learning contexts in which these models are situated. 
 buttons: [syllabus, piazza, video]
 micro_nav: true
 ---
@@ -28,10 +28,11 @@ CS236G has the following components:
 
 #### Goals of CS236G
 
-CS236G aims to get you excited about this advanced method. 
+CS236G aims to get you excited about advanced methods building and using GANs. You will learn and build generative adversarial networks, from their simplest form to state-of-the-art models. Every week you will have:
+
 * In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. You can access these lectures on the [Zoom tab on Canvas](https://canvas.stanford.edu/courses/117317/external_tools/5384), and they will also be posted afterwards on [Canvas](https://canvas.stanford.edu/).
 * Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks.
-* TA-led sections on Thursdays: Teaching Assistants will teach you hands-on tips and tricks to succeed, but also theorethical foundations.
+* TA-led sections on Thursdays: Teaching Assistants will teach you hands-on tips and tricks to succeed, but also theoretical foundations.
 * Project meeting with your TA mentor: CS236G is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful GAN project this quarter.
 
 
@@ -39,7 +40,7 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [GANs Speciali
 
  * Videos. These are organized in "weeks". You will have to watch ≈10 videos (approx 10min each) every week.
  * In-video quizzes. These are sprinkled in every video for you to assess your understanding of the material.
- * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
+ * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignments and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
 
 ## Prerequisites
 Students are expected to have the following background:
