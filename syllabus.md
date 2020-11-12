@@ -1,10 +1,10 @@
 ## 10-Week Syllabus
 
-#### 1 : How to Make a Dog From Noise
+#### Week 1 : How to Make a Dog From Noise
+Introduction to Generative Models & Building Your First GAN 
 
 ![image text](https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png)
 
-Introduction to Generative Models & Building Your First GAN 
 - Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context
 - Intuition Behind GANs
     - Role of the discriminator
@@ -19,11 +19,11 @@ Introduction to Generative Models & Building Your First GAN
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
 
-#### 2 : How to Make a Specific Shoe
+#### Week 2 : How to Make a Specific Shoe
+Controllable Generation and Conditional GAN  [Problem set 1 due]
 
 ![image text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Example-of-100-Generated-items-of-Clothing-using-an-Conditional-GAN-1024x768.png)
 
-Controllable Generation and Conditional GAN  [Problem set 1 due]
 - Conditional Generation: Intuition & Inputs 
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
 - Vector Algebra in Latent Space
@@ -40,11 +40,11 @@ Controllable Generation and Conditional GAN  [Problem set 1 due]
 - Intuition of Precision vs. Recall in Generative Models
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
 
-#### 3 : Making High Quality Faces (and Other Complex Things)
+#### Week 3 : Making High Quality Faces (and Other Complex Things)
+Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
 
 ![image text](https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png)
 
-Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs [Problem set 2 due]
 - Components of StyleGAN: 
     - Disentangled Intermediate Latent W-Space
     - Noise Injection at Multiple Layers (Increased Style Supervision)
@@ -54,11 +54,11 @@ Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning
 - StyleGAN2
 - Fine-tuning Large GANs, Pros/Cons
 
-#### 4 : Changing Painters, Species, and Seasons
+#### Week 4 : Changing Painters, Species, and Seasons
+Image-to-Image Translation **[Problem set 3 due]** 
 
 ![image text](https://junyanz.github.io/CycleGAN/images/teaser.jpg)
 
-Image-to-Image Translation [Problem set 3 due] [Final Project check-in halfway through this week]
 - Pix2Pix for Paired Image-to-Image Translation
     - U-Net, Skip Connections
     - PatchGAN
@@ -78,11 +78,11 @@ Image-to-Image Translation [Problem set 3 due] [Final Project check-in halfway t
 - GAN Inversion vs. Image Optimization
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
-#### 5 : Reading More Papers
+#### Week 5 : Reading (and re-reading)
+Reading papers in GANs  **[Problem set 4 due]** 
 
 ![image text](./images/cycada.png)
 
-Reading papers in GANs  [Problem set 4 due] [Final Project due]
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
 - Adjacent Areas of Research: adversarial learning, robustness/adversarial attacks
@@ -90,4 +90,8 @@ Reading papers in GANs  [Problem set 4 due] [Final Project due]
     - Healthcare
     - Climate change
 
-#### 6-10: Projects
+#### Week 6-9: Projects 
+**[Final Project check-in halfway through one of these weeks]**
+
+#### 10: The Finale
+**[Final Project due]**
