@@ -6,6 +6,11 @@ description: GANs have rapidly emerged as the state-of-the-art technique in real
 buttons: [syllabus, piazza, video]
 micro_nav: true
 ---
+
+Hello World
+
+---
+
 ## Course Information
 - This quarter ({{ site.course.quarter }}), CS236G meets for in-class lecture {{ site.course.time}}, {{ site.course.venue }}.
 - All class communication happens on the [CS236G Piazza forum]({{ site.course.piazza }}). For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
