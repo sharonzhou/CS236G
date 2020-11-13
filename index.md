@@ -20,8 +20,4 @@ micro_nav: true
 * [Weekly TA-led sections](/section)
 
 
-<!-- Course Staff -->
-{% include staff.html %}
-
-
 This site was forked from CS230: Deep Learning (https://CS230.stanford.edu).
