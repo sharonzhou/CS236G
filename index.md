@@ -77,7 +77,7 @@ Here's more information about the class grade:
 * Team Playa: Equal participation within your pair (N/A if flying solo). This to reduce the case where one person does all the work, and make it a bit easier on an individual.
 * Virtually-famous: Submit a video no longer than two minutes about your project.
 * Don Quixote: Give the results of the quixotic experiments that you mentioned in Milestone 2. This will be weighted heavily as we want to encourage fearless exploration - don't worry if experiments don't pan out!
-    ![](media/don-quixote.gif)
+    ![](./images/don-quixote.gif)
 
 #### Submitting Assignments
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
