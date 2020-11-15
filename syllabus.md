@@ -36,7 +36,7 @@ Introduction to Generative Models & Building Your First GAN
 - 1-Lipschitz Continuity Enforcement
 
 #### Week 2 : Picking a Breed of Dog to Generate
-Controllable Generation and Conditional GAN  [Problem set 1 due]
+Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 ![image text](./images/ConditionalHusky.png)
 
