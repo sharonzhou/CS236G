@@ -19,7 +19,9 @@ micro_nav: false
 #### Week 1 : How to Make a Dog From Noise
 Introduction to Generative Models & Building Your First GAN 
 
-![image text](https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png)
+<div class="fig figcenter fighighlight">
+  <img src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
+</div>
 
 - Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context
 - Intuition Behind GANs
@@ -37,7 +39,10 @@ Introduction to Generative Models & Building Your First GAN
 
 #### Week 2 : Picking a Breed of Dog to Generate
 Controllable Generation and Conditional GAN  **[Problem set 1 due]**
-![image text](images/ConditionalHusky.png)
+
+<div class="fig figcenter fighighlight">
+  <img src="images/ConditionalHusky.png">
+</div>
 
 - Conditional Generation: Intuition & Inputs 
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
@@ -57,8 +62,9 @@ Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
 Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
-
-![image text](https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png)
+<div class="fig figcenter fighighlight">
+  <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
+</div>
 
 - Components of StyleGAN: 
     - Disentangled Intermediate Latent W-Space
@@ -72,7 +78,9 @@ Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning
 #### Week 4 : Changing Painters, Species, and Seasons
 Image-to-Image Translation **[Problem set 3 due]** 
 
-![image text](https://junyanz.github.io/CycleGAN/images/teaser.jpg)
+<div class="fig figcenter fighighlight">
+  <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
+</div>
 
 - Pix2Pix for Paired Image-to-Image Translation
     - U-Net, Skip Connections
@@ -96,7 +104,9 @@ Image-to-Image Translation **[Problem set 3 due]**
 #### Week 5 : Reading (and re-reading)
 Reading papers in GANs  **[Problem set 4 due]** 
 
-![image text](images/cycada.png)
+<div class="fig figcenter fighighlight">
+  <img src="images/cycada.png">
+</div>
 
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
