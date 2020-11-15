@@ -1,3 +1,19 @@
+---
+# Page settings
+layout: default
+keywords:
+comments: false
+
+# Hero section
+title: Syllabus
+description:
+
+
+# Micro navigation
+micro_nav: false
+
+---
+
 ## 10-Week Syllabus
 
 #### Week 1 : How to Make a Dog From Noise
