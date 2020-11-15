@@ -17,7 +17,7 @@ micro_nav: false
 ## 10-Week Syllabus
 
 #### Week 1 : How to Make a Dog From Noise
-Introduction to Generative Models & Building Your First GAN 
+##### Introduction to Generative Models & Building Your First GAN 
 
 <div class="fig figcenter fighighlight">
   <img src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
@@ -38,7 +38,7 @@ Introduction to Generative Models & Building Your First GAN
 - 1-Lipschitz Continuity Enforcement
 
 #### Week 2 : Picking a Breed of Dog to Generate
-Controllable Generation and Conditional GAN  **[Problem set 1 due]**
+##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 <div class="fig figcenter fighighlight">
   <img src="images/ConditionalHusky.png">
@@ -61,7 +61,7 @@ Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
 
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
-Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
+##### Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
 <div class="fig figcenter fighighlight">
   <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
 </div>
@@ -76,7 +76,7 @@ Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning
 - Fine-tuning Large GANs, Pros/Cons
 
 #### Week 4 : Changing Painters, Species, and Seasons
-Image-to-Image Translation **[Problem set 3 due]** 
+##### Image-to-Image Translation **[Problem set 3 due]** 
 
 <div class="fig figcenter fighighlight">
   <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
@@ -102,7 +102,7 @@ Image-to-Image Translation **[Problem set 3 due]**
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
 #### Week 5 : Reading (and re-reading)
-Reading papers in GANs  **[Problem set 4 due]** 
+##### Reading papers in GANs  **[Problem set 4 due]** 
 
 <div class="fig figcenter fighighlight">
   <img src="images/cycada.png">
