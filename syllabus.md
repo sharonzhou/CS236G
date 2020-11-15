@@ -37,8 +37,7 @@ Introduction to Generative Models & Building Your First GAN
 
 #### Week 2 : Picking a Breed of Dog to Generate
 Controllable Generation and Conditional GAN  **[Problem set 1 due]**
-
-![image text](./images/ConditionalHusky.png)
+![image text](images/ConditionalHusky.png)
 
 - Conditional Generation: Intuition & Inputs 
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
@@ -97,7 +96,7 @@ Image-to-Image Translation **[Problem set 3 due]**
 #### Week 5 : Reading (and re-reading)
 Reading papers in GANs  **[Problem set 4 due]** 
 
-![image text](./images/cycada.png)
+![image text](images/cycada.png)
 
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
