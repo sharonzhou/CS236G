@@ -35,10 +35,10 @@ Introduction to Generative Models & Building Your First GAN
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
 
-#### Week 2 : How to Make a Specific Shoe
+#### Week 2 : Picking a Breed of Dog to Generate
 Controllable Generation and Conditional GAN  [Problem set 1 due]
 
-![image text](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/Example-of-100-Generated-items-of-Clothing-using-an-Conditional-GAN-1024x768.png)
+![image text](./images/ConditionalHusky.png)
 
 - Conditional Generation: Intuition & Inputs 
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
