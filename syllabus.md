@@ -41,7 +41,7 @@ micro_nav: false
 ##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 <div class="fig figcenter fighighlight">
-  <img src="images/ConditionalHusky.png">
+  <img src="../images/ConditionalHusky.png">
 </div>
 
 - Conditional Generation: Intuition & Inputs 
@@ -105,7 +105,7 @@ micro_nav: false
 ##### Reading papers in GANs  **[Problem set 4 due]** 
 
 <div class="fig figcenter fighighlight">
-  <img src="images/cycada.png">
+  <img src="../images/cycada.png">
 </div>
 
 - Approach to Reading Research Papers: Skim Twice, Read Twice
