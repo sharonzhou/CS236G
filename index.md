@@ -15,30 +15,18 @@ micro_nav: true
 <!-- Course Staff -->
 {% include staff.html %}
 
-## Logistics
-All course announcements take place through the [class Piazza forum]({{ site.course.piazza }}). Please make sure to join!
-#### Class components
 
-CS236G has the following components:
-* In class lecture - once a week (hosted on [Zoom](https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09)). 
+## Course Goals
+- Learn and build generative adversarial networks (GANs), from their simplest form to state-of-the-art models. 
+- Implement, debug, and train GANs as part of a novel and substantial course project.
+- Gaining familiarity with the latest cutting-edge literature on GANs.
+- Reward risk-taking and creative exploration.
+
+## Course Components
+* In class lecture - once a week on {{ site.course.time}} (hosted on [Zoom](https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09)). 
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 * [Weekly TA-led sections](/section)
-
-#### Goals of CS236G
-
-CS236G aims to get you excited about this advanced method. 
-* In-class lectures on Tuesdays: these lectures will be a mix of advanced lectures on a specific subject that hasn't been treated in depth in the videos or guest lectures from industry experts. You can access these lectures on the [Zoom tab on Canvas](https://canvas.stanford.edu/courses/117317/external_tools/5384), and they will also be posted afterwards on [Canvas](https://canvas.stanford.edu/).
-* Two modules from the [deeplearning.ai](https://www.deeplearning.ai/) [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/) on Coursera. You will watch videos at home, solve quizzes and programming assignments hosted on online notebooks.
-* TA-led sections on Thursdays: Teaching Assistants will teach you hands-on tips and tricks to succeed, but also theorethical foundations.
-* Project meeting with your TA mentor: CS236G is a project-based class. Through personalized guidance, TAs will help you succeed in implementing a successful GAN project this quarter.
-
-
-One module of the [deeplearning.ai](https://www.deeplearning.ai/) [GANs Specialization](https://www.deeplearning.ai/generative-adversarial-networks-specialization/) on Coursera includes:
-
- * Videos. These are organized in "weeks". You will have to watch ≈10 videos (approx 10min each) every week.
- * In-video quizzes. These are sprinkled in every video for you to assess your understanding of the material.
- * Programming assignments (≈2h per week to complete). The programming assignments will usually lead you to build concrete algorithms, you will get to see your own result after you've completed all the code. It's gonna be fun! For both assignment and quizzes, follow the deadlines on the Syllabus page, not on Coursera.
 
 ## Prerequisites
 Students are expected to have the following background:
@@ -58,37 +46,6 @@ Here's more information about the class grade:
 * 25%: Programming assignments & quizzes
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
-
-#### Class Project Deliverables
-
-##### 20%, Proposal
-* Inspo: Find sources of inspiration that you think are cool. You must include 7 sources, at least 2 of which must be academic papers, and write a brief paragraph on each. In your paragraph, give a brief mention of the sources that *they* relied on. You will be assessed on the diversity of material (to prevent student mode collapse :D).
-* Idea spew: Create a list of 2+ project ideas you'd be interested in exploring. In each, you must include the dataset you plan to use, the model architecture, and the real-world application this will be used towards. At least two of the three among {dataset, model, application} must be novel. A novel dataset is one which has never had a GAN applied to it (we encourage you to get creative / scrape the data yourself).
-
-##### 15%, Milestone 1 
-* I haz the data: Your dataset will be submitted as part of our course's "data stash". We get really psyched when we have a good stash. 💫
-* Inkling: Run a baseline model on your data and get cracking!
-
-##### 15%, Milestone 2
-* Ignition on: You should have largely implemented the plan you set sail for ⛵️ (or an alternative prospect that you pivoted to).
-* Star-gazer: Describe some highly risky experiments that you plan to perform. The more the merrier! 🤩
-
-##### 50%, Final Draft
-* Team Playa: Equal participation within your pair (N/A if flying solo). This to reduce the case where one person does all the work, and make it a bit easier on an individual.
-* Virtually-famous: Submit a video no longer than two minutes about your project.
-* Don Quixote: Give the results of the quixotic experiments that you mentioned in Milestone 2. This will be weighted heavily as we want to encourage fearless exploration - don't worry if experiments don't pan out!
-
-<div class="fig figcenter fighighlight">
-  <img src="images/don-quixote.gif">
-</div>
-
-#### Submitting Assignments
-From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
-
-You will submit your [project deliverables](/project/#project-deliverables) on [Gradescope](https://www.gradescope.com/courses/000). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **TBD**.
-
-#### Late assignments
-No late days. We won't grade them. You'll probably still do fine in the class.
 
 #### Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
