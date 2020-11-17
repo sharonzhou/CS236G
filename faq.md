@@ -38,7 +38,7 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [GANs Speciali
 ## How do I submit assignments?
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/000). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **TBD**.
+You will submit your [project deliverables](../project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/000). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **TBD**.
 
 ## What is the late day policy? 
 No late days. We won't grade them. You'll probably still do fine in the class.
