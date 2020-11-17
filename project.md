@@ -5,8 +5,8 @@ keywords:
 comments: false
 
 # Hero section
-title: Frequently Asked Questions
-description:
+title: Project
+description: One of CS236G's goals is to prepare you to apply GANs to real world tasks. The final project will get you started in that direction.
 
 
 # Micro navigation
