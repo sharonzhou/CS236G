@@ -1,5 +1,7 @@
 title: CS236G Generative Adversarial Networks (GANs)
-baseurl: "https://cs236g.stanford.edu"
+# baseurl: "https://cs236g.stanford.edu"
+baseurl: "/"
+site: "https://hikaruhotta.github.io"
 repository: "CS236G"
 
 # Theme settings
