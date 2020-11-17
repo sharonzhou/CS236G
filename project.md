@@ -34,6 +34,6 @@ micro_nav: false
 * Don Quixote: Give the results of the quixotic experiments that you mentioned in Milestone 2. This will be weighted heavily as we want to encourage fearless exploration - don't worry if experiments don't pan out!
 
 <div class="fig figcenter fighighlight">
-  <img src="images/don-quixote.gif">
+  <img src="../images/don-quixote.gif">
 </div>
 
