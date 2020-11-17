@@ -36,10 +36,6 @@ Students are expected to have the following background:
  * Familiarity with linear algebra (MATH 51)
 
 ## Grading
-
-Here's more information about the class grade:
-
-#### Breakdown
  
 * 50%: Class project - creativity and equal participation within a group will be rewarded
 * 25%: Midterm
@@ -47,10 +43,10 @@ Here's more information about the class grade:
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 
-#### Students with Documented Disabilities
+## Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
 
-#### Honor code
+## Honor code
 We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with. It is also an honor code violation to copy, refer to, or look at written or code solutions from a previous year, including but not limited to: official solutions from a previous year, solutions posted online, and solutions you or someone else may have written up in a previous year. Furthermore, it is an honor code violation to post your assignment solutions online, such as on a public git repo.
 
 [The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code)
