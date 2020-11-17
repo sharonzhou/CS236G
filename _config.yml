@@ -14,6 +14,8 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
+            - item_name: Project
+              item_url: '/project'
             - item_name: FAQ
               item_url: '/faq'
     footer:
