@@ -58,5 +58,5 @@ Max 2 people per team -- or feel free to do the project alone. A larger team siz
 ## Is there a textbook or other resource I could use to supplement my learning?
 Not officially, but great resources are Deep Generative Models (Ch. 20) in [The Deep Learning book](http://www.deeplearningbook.org/) and Deep Learning (Ch. 21) in [AI: A Modern Approach](http://aima.cs.berkeley.edu/).
 
-## Can I audit CS230?
+## Can I audit CS236G?
 Yes! If you have a Stanford ID. You'll get access to some materials (but likely not all).
