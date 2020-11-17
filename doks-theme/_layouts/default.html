@@ -82,7 +82,22 @@
 				</div><!-- /.row -->
 			</div><!-- /.container -->
 		</div><!-- /.hero-subheader -->
-
+		{% if page.add_gif %}
+		<div style="display: flex"> 
+			<div style="flex-grow: 1;
+			      		height: 500px;
+			      		background-image: url(cs236g_demo.gif);
+			      		background-size: cover;
+			      		background-position: left top;
+			    "></div>
+			<div style="flex-grow: 1;
+			      		height: 500px;
+			      		background-image: url(gans_demo_2.gif);
+			      		background-size: cover;
+			      		background-position: left top;
+			     "></div>
+		</div>
+		{% endif %}
 <!-- 		<div style="display: flex"> 
       		<div style="
 	          		flex-grow: 1;
