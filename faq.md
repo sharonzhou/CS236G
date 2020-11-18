@@ -58,5 +58,15 @@ Max 2 people per team -- or feel free to do the project alone. A larger team siz
 ## Is there a textbook or other resource I could use to supplement my learning?
 Not officially, but great resources are Deep Generative Models (Ch. 20) in [The Deep Learning book](http://www.deeplearningbook.org/) and Deep Learning (Ch. 21) in [AI: A Modern Approach](http://aima.cs.berkeley.edu/).
 
+## What if I need academic accommodations?
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the [Office of Accessible Education](https://oae.stanford.edu/) (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty. Unless the student has a temporary disability, Accommodation letters are issued for the entire academic year. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (phone: 723-1066).
+
+## What is the honor code policy like?
+We strongly encourage students to form study groups. Students may discuss and work on programming assignments and quizzes in groups. However, each student must write down the solutions independently, and without referring to written notes from the joint session. In other words, each student must understand the solution well enough in order to reconstruct it by him/herself. In addition, each student should submit his/her own code and mention anyone he/she collaborated with. It is also an honor code violation to copy, refer to, or look at written or code solutions from a previous year, including but not limited to: official solutions from a previous year, solutions posted online, and solutions you or someone else may have written up in a previous year. Furthermore, it is an honor code violation to post your assignment solutions online, such as on a public git repo.
+
+[The Stanford Honor Code](https://communitystandards.stanford.edu/policies-and-guidance/honor-code)
+
+[The Stanford Honor Code as it pertains to CS courses](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf)
+
 ## Can I audit CS236G?
 Yes! If you have a Stanford ID. You'll get access to some materials (but likely not all).
