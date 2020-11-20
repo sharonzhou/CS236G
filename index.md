@@ -5,7 +5,7 @@ title: CS236G Generative Adversarial Networks (GANs)
 description: GANs have rapidly emerged as the state-of-the-art technique in realistic image generation. In this course, you’ll learn the theoretical intuition behind GANs, from their simplest to their state-of-the-art forms. The course will also discuss application areas that have benefitted from GANs, including realistic image editing that is omnipresent in popular app filters, and tumor classification under low data schemes in medicine. You'll also get to examine key challenges of GANs today, including reliable evaluation, inherent biases, and training stability. After this course, students should be familiar with GANs and the broader generative models and machine learning contexts in which these models are situated. 
 buttons: [syllabus, piazza, video]
 micro_nav: true
-add_gif: cs236g_gif_shortest.gif
+add_gif: gans_demo_2.gif
 show_lecture_time: true
 ---
 
