@@ -94,7 +94,39 @@ course:
         - name: Gan Gogh
           type: TA
           url: https://artbreeder.com/
-          image: nophoto.jpg
+          image: gangogh.jpg
           zoom_id: 000
           zoom_link: https://stanford.zoom.us/j/000
           calendly: https://calendly.com/cs236g/gan-gogh
+        - name: Claire Pajot
+          type: TA
+          image: claire.png
+          zoom_id: 000
+        - name: Hikaru Hotta
+          type: TA
+          image: hikaru.png
+          zoom_id: 000
+        - name: Louis Blankemeier
+          type: TA
+          image: nophoto.png
+          zoom_id: 000
+        - name: Silvia Gong
+          type: TA
+          image: silvia.png
+          zoom_id: 000
+        - name: Sofian Zalouk
+          type: TA
+          image: sofian.png
+          zoom_id: 000
+        - name: Tim Gianitsos
+          type: TA
+          image: tim.png
+          zoom_id: 000
+        - name: Vincent Liu
+          type: TA
+          image: vincent.png
+          zoom_id: 000
+        - name: William Zhuk
+          type: TA
+          image: william.png
+          zoom_id: 000
