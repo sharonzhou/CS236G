@@ -89,7 +89,8 @@ course:
           type: Instructor
           url: https://www.linkedin.com/in/zhousharon/
           image: sharon.png
-          
+    
+    ta:
         - name: Gan Gogh
           type: TA
           url: https://artbreeder.com/
