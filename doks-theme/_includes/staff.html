@@ -19,3 +19,11 @@
 	</div>
 {% endfor%}
 </div>
+
+<script>
+console.log('hello');
+var taList = document.querySelector('#ta-list');
+for (var i = taList.children.length; i >= 0; i--) {
+	taList.appendChild(taList.children[Math.random() * i | 0]);
+}
+</script>
