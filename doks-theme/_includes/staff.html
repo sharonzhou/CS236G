@@ -1,5 +1,5 @@
 ## Course Staff
-{% for people in shuffle(site.course.staff) %}
+{% for people in site.course.staff %}
 <div class="instructor">
 	<a target="_blank" href="{{ people.url }}">
         <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
@@ -9,7 +9,7 @@
 {% endfor%}
 
 #### Course Assistants
-{% for people in site.course.ta %}
+{% for people in random.shuffle(site.course.ta) %}
 <div class="instructor ta">
 	<a target="_blank" href="{{ people.url }}">
         <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
