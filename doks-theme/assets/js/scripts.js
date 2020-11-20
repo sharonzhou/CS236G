@@ -151,8 +151,6 @@
 		$( '.js-affix' ).affix( {
 			offset: {
 				top: function() {
-					console.log($( '.hero-subheader' ).outerHeight( true ))
-					console.log($( '.frontpage-gif' ).outerHeight( true ))
 					return (
 						this.top = $( '.hero-subheader' ).outerHeight( true ) + $( '.frontpage-gif' ).outerHeight( true )
 					);
