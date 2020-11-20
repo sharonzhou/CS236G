@@ -9,11 +9,20 @@
 {% endfor%}
 
 #### Course Assistants
+<div id="ta-list">
 {% for people in site.course.ta %}
-<div class="instructor ta">
-	<a target="_blank" href="{{ people.url }}">
-        <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
-        <div style="text-align:center;"> {{ people.name }} </div>
-	</a>
-</div>
+	<div class="instructor ta">
+		<a target="_blank" href="{{ people.url }}">
+	        <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+	        <div style="text-align:center;"> {{ people.name }} </div>
+		</a>
+	</div>
 {% endfor%}
+</div>
+
+<script>
+var taList = document.querySelector('#ta-list');
+for (var i = taList.children.length; i >= 0; i--) {
+	taList.appendChild(taList.children[Math.random() * i | 0]);
+}
+</script>
