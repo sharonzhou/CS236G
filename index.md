@@ -6,6 +6,7 @@ description: GANs have rapidly emerged as the state-of-the-art technique in real
 buttons: [syllabus, piazza, video]
 micro_nav: true
 add_gif: cs236g_gif_shortest.gif
+show_lecture_time: true
 ---
 
 ## Course Information

@@ -63,8 +63,10 @@
         </div>
     {% endif %}
 {% endfor%}
+										{% if page.show_lecture_time %}
 										<h4>Time and Location</h4>
                                                                                 <p>{{ site.course.time }} <br> {{ site.course.venue }}</p>
+                                        {% endif %}
 									</div><!-- /.hero-subheader__author -->
 								</div><!-- /.align-inner -->
 							</div><!-- /.align-container -->
@@ -75,7 +77,7 @@
 		{% if page.add_gif %}
 		<div style="display: flex"> 
 			<div style="flex-grow: 1;
-			      		height: 500px;
+			      		height: 540px;
 			      		background-image: url({{page.add_gif}});
 			      		background-size: auto;
 			      		background-position: left top;
