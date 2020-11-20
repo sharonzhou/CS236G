@@ -9,7 +9,10 @@
 {% endfor%}
 
 #### Course Assistants
-{% for people in random.shuffle(site.course.ta) %}
+
+{% assign n = site.course.ta | size %}
+{% assign random_ta = site.course.ta | sample: n %}
+{% for people in random_ta %}
 <div class="instructor ta">
 	<a target="_blank" href="{{ people.url }}">
         <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
