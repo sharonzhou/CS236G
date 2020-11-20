@@ -154,7 +154,7 @@
 					console.log($( '.hero-subheader' ).outerHeight( true ))
 					console.log($( '.frontpage-gif' ).outerHeight( true ))
 					return (
-						this.top = $( '.hero-subheader' ).outerHeight( true ) + $( '.frontpage-gif' ).outerHeight( true ) + 100
+						this.top = $( '.hero-subheader' ).outerHeight( true ) + $( '.frontpage-gif' ).outerHeight( true )
 					);
 				},
 				bottom: function() {
