@@ -25,6 +25,7 @@ micro_nav: false
 <details>
 <summary>Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context</summary>
 <p>
+
 - Intuition Behind GANs
     - Role of the discriminator
     - Role of the generator
@@ -37,6 +38,7 @@ micro_nav: false
 - Wasserstein-Loss
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
+
 </p>
 </details>
 
@@ -51,6 +53,7 @@ micro_nav: false
 <details>
 <summary>Conditional Generation: Intuition & Inputs </summary>
 <p>
+
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
 - Vector Algebra in Latent Space
 - Challenges with Controllable Generation 
@@ -65,6 +68,7 @@ micro_nav: false
 - Gold Standard in Fidelity (human-centered approach)
 - Intuition of Precision vs. Recall in Generative Models
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
+
 </p>
 </details>
 
@@ -78,6 +82,7 @@ micro_nav: false
 <details>
 <summary>StyleGAN</summary>
 <p>
+
 - Components of StyleGAN: 
     - Disentangled Intermediate Latent W-Space
     - Noise Injection at Multiple Layers (Increased Style Supervision)
@@ -86,6 +91,7 @@ micro_nav: false
     - Progressive Growing
 - StyleGAN2
 - Fine-tuning Large GANs, Pros/Cons
+
 </p>
 </details>
 
@@ -100,6 +106,7 @@ micro_nav: false
 <details>
 <summary>Image-to-Image Translation</summary>
 <p>
+
 - Pix2Pix for Paired Image-to-Image Translation
     - U-Net, Skip Connections
     - PatchGAN
@@ -118,6 +125,7 @@ micro_nav: false
 - Inverting a GAN, Challenges from Increasing Model Size, BiGAN
 - GAN Inversion vs. Image Optimization
 - Combining Inversion Techniques (“Warm Start”) with Optimization
+
 </p>
 </details>
 
@@ -133,6 +141,7 @@ micro_nav: false
 <details>
 <summary>Research Papers</summary>
 <p>
+
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
 - Adjacent Areas of Research: adversarial learning, robustness/adversarial attacks
@@ -140,6 +149,7 @@ micro_nav: false
     - Healthcare
     - Climate change
 </p>
+
 </details>
 
 
