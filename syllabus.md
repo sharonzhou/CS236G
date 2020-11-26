@@ -20,10 +20,11 @@ micro_nav: false
 ##### Introduction to Generative Models & Building Your First GAN 
 
 <div class="fig figcenter fighighlight">
-  <img src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
+  <img width="700" src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
 </div>
-
-- Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context
+<details>
+<summary>Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context</summary>
+<br>
 - Intuition Behind GANs
     - Role of the discriminator
     - Role of the generator
@@ -36,15 +37,19 @@ micro_nav: false
 - Wasserstein-Loss
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
+</details>
+
 
 #### Week 2 : Picking a Breed of Dog to Generate
 ##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 <div class="fig figcenter fighighlight">
-  <img src="../images/ConditionalHusky.png">
+  <img width="700" src="../images/ConditionalHusky.png">
 </div>
 
-- Conditional Generation: Intuition & Inputs 
+<details>
+<summary>Conditional Generation: Intuition & Inputs </summary>
+<br>
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
 - Vector Algebra in Latent Space
 - Challenges with Controllable Generation 
@@ -59,13 +64,18 @@ micro_nav: false
 - Gold Standard in Fidelity (human-centered approach)
 - Intuition of Precision vs. Recall in Generative Models
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
+</details>
+
 
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
 ##### Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
+  <img width="700" src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
 </div>
 
+<details>
+<summary>StyleGAN</summary>
+<br>
 - Components of StyleGAN: 
     - Disentangled Intermediate Latent W-Space
     - Noise Injection at Multiple Layers (Increased Style Supervision)
@@ -74,14 +84,19 @@ micro_nav: false
     - Progressive Growing
 - StyleGAN2
 - Fine-tuning Large GANs, Pros/Cons
+</details>
+
 
 #### Week 4 : Changing Painters, Species, and Seasons
 ##### Image-to-Image Translation **[Problem set 3 due]** 
 
 <div class="fig figcenter fighighlight">
-  <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
+  <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
 </div>
 
+<details>
+<summary>Image-to-Image Translation</summary>
+<br>
 - Pix2Pix for Paired Image-to-Image Translation
     - U-Net, Skip Connections
     - PatchGAN
@@ -100,20 +115,29 @@ micro_nav: false
 - Inverting a GAN, Challenges from Increasing Model Size, BiGAN
 - GAN Inversion vs. Image Optimization
 - Combining Inversion Techniques (“Warm Start”) with Optimization
+</details>
+
+
 
 #### Week 5 : Reading (and re-reading)
 ##### Reading papers in GANs  **[Problem set 4 due]** 
 
 <div class="fig figcenter fighighlight">
-  <img src="../images/cycada.png">
+  <img width="700" src="../images/cycada.png">
 </div>
 
+<details>
+<summary>Research Papers</summary>
+<br>
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
 - Adjacent Areas of Research: adversarial learning, robustness/adversarial attacks
 - Compelling applied areas and research:
     - Healthcare
     - Climate change
+</details>
+
+
 
 #### Week 6-9: Projects 
 **[Final Project check-in halfway through one of these weeks]**
