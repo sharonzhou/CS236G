@@ -6,6 +6,7 @@ description: GANs have rapidly emerged as the state-of-the-art technique in real
 buttons: [syllabus, piazza, video]
 micro_nav: true
 add_gif: gans_demo_2.gif
+add_webp: gans_demo_2.webp
 show_lecture_time: true
 ---
 
