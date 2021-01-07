@@ -95,9 +95,9 @@ course:
           zoom_id: 000
           zoom_link: https://stanford.zoom.us/j/000
           calendly: https://calendly.com/cs236g/gan-gogh
-        - name: Claire Pajot
+        - name: Eric Zelikman
           type: TA
-          image: claire.png
+          image: eric.png
           zoom_id: 000
         - name: Hikaru Hotta
           type: TA
