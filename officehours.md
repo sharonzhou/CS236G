@@ -20,7 +20,7 @@ micro_nav: false
 {% endunless -%}
 {% endfor %}
 
-## Google Calendar
+## Google Calendar <a name="calendar"></a>
 
 **All Office Hours are held remotely over Zoom. Use the Zoom link above for the respective TA.**
 
