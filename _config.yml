@@ -100,13 +100,12 @@ course:
           type: TA
           url: https://artbreeder.com/
           image: gangogh.jpg
-          zoom_id: 000
-          zoom_link: https://stanford.zoom.us/j/000
-          calendly: https://calendly.com/cs236g/gan-gogh
         - name: Eric Zelikman
           type: TA
           image: eric.png
           zoom_id: 000
+          zoom_link: https://stanford.zoom.us/j/92238359978?pwd=dmpuMlVlazQxNlUzT014TGxjUlJ5QT09#success
+          calendly: https://calendly.com/cs236g/eric-s-office-hours
         - name: Hikaru Hotta
           type: TA
           image: hikaru.png
