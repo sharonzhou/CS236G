@@ -86,9 +86,9 @@ course:
             external_url: false
         google_cal:
             icon:
-            content: Calendar
+            content: Google Calendar
             url: '/officehours/#calendar'
-            external_url: false
+            external_url: True
     staff:
         - name: Sharon Zhou
           type: Instructor
