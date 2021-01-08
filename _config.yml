@@ -86,6 +86,11 @@ course:
             content: Meet with Project TA
             url: '/officehours/#table'
             external_url: true
+        google_cal:
+            icon:
+            content: Calendar
+            url: '/officehours/#calendar'
+            external_url: true
     staff:
         - name: Sharon Zhou
           type: Instructor
