@@ -103,13 +103,15 @@ course:
         - name: Eric Zelikman
           type: TA
           image: eric.png
-          zoom_id: 000
-          zoom_link: https://stanford.zoom.us/j/92238359978?pwd=dmpuMlVlazQxNlUzT014TGxjUlJ5QT09#success
+          zoom_id: 92238359978
+          zoom_link: https://stanford.zoom.us/j/92238359978?pwd=dmpuMlVlazQxNlUzT014TGxjUlJ5QT09
           calendly: https://calendly.com/cs236g/eric-s-office-hours
         - name: Hikaru Hotta
           type: TA
           image: hikaru.png
-          zoom_id: 000
+          zoom_id: 97045267696
+          zoom_link: https://stanford.zoom.us/s/97045267696?pwd=MnNxck5VZzVWQldwZUV0OU9EUVo4UT09
+          calendly: https://calendly.com/cs236g/hikaru-office-hours
         - name: Louis Blankemeier
           type: TA
           image: louis.png
@@ -121,7 +123,9 @@ course:
         - name: Sofian Zalouk
           type: TA
           image: sofian.png
-          zoom_id: 000
+          zoom_id: 91078117842
+          zoom_link: https://stanford.zoom.us/j/91078117842?pwd=dWlsRC9uOU9OczZBejlPTnFSZWd2dz09
+          calendly: https://calendly.com/cs236g/sofian-s-office-hours
         - name: Tim Gianitsos
           type: TA
           image: tim.png
