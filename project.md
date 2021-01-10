@@ -14,7 +14,7 @@ micro_nav: false
 
 ---
 
-#Class Project Deliverables
+# Class Project Deliverables
 
 ## Project Inspo Part 1 (***Due 1/31***) - 5%
 - **Inspo**: Start exploring project ideas you find interesting (papers, blog posts, etc.). Either:
