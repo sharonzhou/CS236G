@@ -30,7 +30,8 @@ This section contains the detailed instructions for the different parts of your 
 
 ## Project Inspo Part 2 (***Due 2/7***) - 10%
 **Inspo**: Find sources of inspiration that you think are cool.
- - You must include 7 sources, at least 2 of which must be academic papers, and write a brief paragraph on each - In your paragraph, give a brief mention of the sources that they relied on.
+ - You must include 7 sources, at least 2 of which must be academic papers, and write a brief paragraph on each
+ - In your paragraph, give a brief mention of the sources that they relied on.
 
 **Submission**: Include paragraphs about 7 sources as a pdf document. Your document should not exceed 4 pages.
 
