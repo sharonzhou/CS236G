@@ -10,8 +10,7 @@ description: One of CS236G's goals is to prepare you to apply GANs to real world
 
 
 # Micro navigation
-micro_nav: false
-
+micro_nav: true
 ---
 
 # Class Project Deliverables
