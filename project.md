@@ -86,7 +86,7 @@ This section contains the detailed instructions for the different parts of your 
 **Grading**: This milestone is intended to ensure that your team is on track and has worked on improving on the baseline. If you have completed all the bullet points above, you should do well.
 
 ## Final Report (***Due 3/17***) - 35%
-**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using this template. Below is recommended format and rubric for the report (taken from cs231n lol)
+**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using this template. Below are the recommended format and rubric for the report:
  - Title, Author(s)
  - Abstract: Concisely outline the problem, your team’s approach, and findings.
  - Introduction: Outline the problem your team worked on, its significance, and provide an overview of your results.
