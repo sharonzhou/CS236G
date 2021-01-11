@@ -6,6 +6,7 @@ description: GANs have rapidly emerged as the state-of-the-art technique in real
 buttons: [syllabus, piazza, video]
 micro_nav: true
 add_gif: gans_demo_2.gif
+add_webp: gans_demo_2.webp
 show_lecture_time: true
 ---
 
@@ -40,9 +41,9 @@ Students are expected to have the following background:
 
 ## Grading
  
-* 50%: Class project - creativity and equal participation within a group will be rewarded
-* 25%: Midterm
-* 25%: Programming assignments & quizzes
+* 60%: Class project - creativity and equal participation within a group will be rewarded
+* 35%: Programming assignments
+* 5%: Midterm
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 

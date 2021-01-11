@@ -12,6 +12,8 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
+            - item_name: Office Hours
+              item_url: '/officehours'
             - item_name: Project
               item_url: '/project'
             - item_name: FAQ
@@ -80,33 +82,38 @@ course:
         project_appt_calendly:
             content: Meet with Project TA
             url: '/officehours/#table'
-            external_url: true
+            external_url: false
+        google_cal:
+            icon:
+            content: Calendar
+            url: '/officehours/#calendar'
+            external_url: false
     staff:
         - name: Sharon Zhou
           type: Instructor
           url: https://www.linkedin.com/in/zhousharon/
           image: sharon.png
-    
+          calendly: https://calendly.com/sharonz/cs236g-office-hours
+          zoom_id: 91766994906
+          zoom_link: https://stanford.zoom.us/s/91766994906?pwd=bG1mWnl6ZERXeHh3R2dzR2k3ZWJtQT09
+
     ta:
         - name: Gan Gogh
           type: TA
           url: https://artbreeder.com/
           image: gangogh.jpg
-          zoom_id: 000
-          zoom_link: https://stanford.zoom.us/j/000
-          calendly: https://calendly.com/cs236g/gan-gogh
         - name: Eric Zelikman
           type: TA
           image: eric.png
-          zoom_id: 000
+          zoom_id: 92238359978
+          zoom_link: https://stanford.zoom.us/j/92238359978?pwd=dmpuMlVlazQxNlUzT014TGxjUlJ5QT09
+          calendly: https://calendly.com/ezelikman/oh
         - name: Hikaru Hotta
           type: TA
           image: hikaru.png
-          zoom_id: 000
-        - name: Louis Blankemeier
-          type: TA
-          image: louis.png
-          zoom_id: 000
+          zoom_id: 97045267696
+          zoom_link: https://stanford.zoom.us/s/97045267696?pwd=MnNxck5VZzVWQldwZUV0OU9EUVo4UT09
+          calendly: https://calendly.com/hikaru-hotta/15min
         - name: Silvia Gong
           type: TA
           image: silvia.png
@@ -114,16 +121,26 @@ course:
         - name: Sofian Zalouk
           type: TA
           image: sofian.png
-          zoom_id: 000
-        - name: Tim Gianitsos
-          type: TA
-          image: tim.png
-          zoom_id: 000
+          zoom_id: 91078117842
+          zoom_link: https://stanford.zoom.us/j/91078117842?pwd=dWlsRC9uOU9OczZBejlPTnFSZWd2dz09
+          calendly: https://calendly.com/szalouk/sofian-office-hours
         - name: Vincent Liu
           type: TA
           image: vincent.png
-          zoom_id: 000
+          zoom_id: 97931205842
+          zoom_link: https://stanford.zoom.us/s/97931205842?pwd=ZDhnMkcvVmRaMHZIL0JGRGhrSGZMZz09
+          calendly: https://calendly.com/vliu15/cs-236g-office-hours
         - name: William Zhuk
           type: TA
           image: william.png
-          zoom_id: 000
+
+    project_mentor:
+        - name: Claire Pajot
+          type: Mentor
+          image: claire.png
+        - name: Louis Blankemeier
+          type: Mentor
+          image: louis.png
+        - name: Tim Gianitsos
+          type: Mentor
+          image: tim.png
