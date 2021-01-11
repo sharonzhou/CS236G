@@ -28,7 +28,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: Graded on completion.
 
-## Project Inspo Part 2 (***Due 2/7***) - 10%
+## Project Inspo Part 2 (***Due 2/7***) - 5%
 **Inspo**: Find sources of inspiration that you think are cool.
  - You must include 7 sources, at least 2 of which must be academic papers, and write a brief paragraph on each
  - In your paragraph, give a brief mention of the sources that they relied on.
@@ -85,7 +85,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: This milestone is intended to ensure that your team is on track and has worked on improving on the baseline. If you have completed all the bullet points above, you should do well.
 
-## Final Report (***Due 3/17***) - 35%
+## Final Report (***Due 3/17***) - 40%
 **The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using this template. Below are the recommended format and rubric for the report:
  - Title, Author(s)
  - Abstract: Concisely outline the problem, your team’s approach, and findings.
