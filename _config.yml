@@ -128,23 +128,20 @@ course:
         - name: Vincent Liu
           type: TA
           image: vincent.png
-          zoom_id: 000
+          zoom_id: 97931205842
+          zoom_link: https://stanford.zoom.us/s/97931205842?pwd=ZDhnMkcvVmRaMHZIL0JGRGhrSGZMZz09
           calendly: https://calendly.com/vliu15/cs-236g-office-hours
         - name: William Zhuk
           type: TA
           image: william.png
-          zoom_id: 000
 
     project_mentor:
         - name: Claire Pajot
           type: Mentor
           image: claire.png
-          zoom_id: 000
         - name: Louis Blankemeier
           type: Mentor
           image: louis.png
-          zoom_id: 000
         - name: Tim Gianitsos
           type: Mentor
           image: tim.png
-          zoom_id: 000
