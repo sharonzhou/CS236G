@@ -120,6 +120,8 @@ course:
           type: TA
           image: silvia.png
           zoom_id: 000
+          zoom_link: 
+          calendly: https://calendly.com/silvgong
         - name: Sofian Zalouk
           type: TA
           image: sofian.png
@@ -134,19 +136,27 @@ course:
           calendly: https://calendly.com/vliu15/cs-236g-office-hours
         - name: William Zhuk
           type: TA
-          image: william.png
+          image: william.pngs
+          calendly: https://calendly.com/willzhuk/15min
+          zoom_id: 94672223884
+          zoom_link: https://stanford.zoom.us/j/94672223884?pwd=QXYwb3hQSVBSaDMyL0VYMHhaZXlGdz09
 
     project_mentor:
         - name: Claire Pajot
           type: Mentor
           image: claire.png
           calendly: https://calendly.com/cpajot/cs236g-oh
-          zoom_id: 000
+          zoom_id: 98386728001
+          zoom_link: https://stanford.zoom.us/j/98386728001?pwd=UWtJL1RjMmpMNUJEbTZaQ2RRTHMzQT09
         - name: Louis Blankemeier
           type: Mentor
           image: louis.png
           calendly: https://calendly.com/lblankem/louis-blankemeier-s-cs236g-office-hours
-          zoom_id: 000
+          zoom_id: 96530342314
+          zoom_link: https://stanford.zoom.us/j/96530342314?pwd=Z2w2TThQV3hKdWM5K0p0SWJsUTNYQT09
         - name: Tim Gianitsos
           type: Mentor
           image: tim.png
+          calendly: https://calendly.com/tgianit/cs236g-office-hours
+          zoom_id: 93076843389
+          zoom_link: https://stanford.zoom.us/j/93076843389?pwd=bDcxRTR2UnhQeFhXQTA5MVkrRGM1dz09
