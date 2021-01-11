@@ -30,7 +30,6 @@ show_lecture_time: true
 * In class lecture - once a week on {{ site.course.time}} (hosted on [Zoom](https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09)). 
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
-* [Weekly TA-led sections](/section)
 
 ## Prerequisites
 Students are expected to have the following background:
