@@ -138,9 +138,13 @@ course:
         - name: Claire Pajot
           type: Mentor
           image: claire.png
+          calendly: https://calendly.com/cpajot/cs236g-oh
+          zoom_id: 000
         - name: Louis Blankemeier
           type: Mentor
           image: louis.png
+          calendly: https://calendly.com/lblankem/louis-blankemeier-s-cs236g-office-hours
+          zoom_id: 000
         - name: Tim Gianitsos
           type: Mentor
           image: tim.png
