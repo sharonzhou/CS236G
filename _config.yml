@@ -25,7 +25,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2020. - Stanford University <br>All rights reserved.
+            copyright: Copyright &copy; 2021. - Stanford University <br>All rights reserved.
     google_analytics: UA-180658495-1
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments

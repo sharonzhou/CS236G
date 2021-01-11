@@ -11,7 +11,7 @@ micro_nav: false
 
 ## Office Hours Table <a name="table"></a>
 
-| Course Staff | Project Office Hour Signup | Zoom URL |
+| Course Staff |     Office Hour Signup     | Zoom URL |
 |--------------|:--------------------------:|----------|
 {% assign people = site.course.staff | concat: site.course.ta | concat: site.course.project_mentor -%}
 {% for ta in people -%}
