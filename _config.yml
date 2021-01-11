@@ -105,13 +105,13 @@ course:
         - name: Eric Zelikman
           type: TA
           image: eric.png
-          zoom_id: 92238359978
+          zoom_id: 2213214134
           zoom_link: https://stanford.zoom.us/j/2213214134?pwd=TjV4aTl5djhqcjRza3FNeVM3NDJXZz09
           calendly: https://calendly.com/ezelikman/oh
         - name: Hikaru Hotta
           type: TA
           image: hikaru.png
-          zoom_id: 2213214134
+          zoom_id: 97045267696
           zoom_link: https://stanford.zoom.us/s/97045267696?pwd=MnNxck5VZzVWQldwZUV0OU9EUVo4UT09
           calendly: https://calendly.com/hikaru-hotta/15min
         - name: Silvia Gong
