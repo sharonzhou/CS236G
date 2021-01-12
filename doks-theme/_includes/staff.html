@@ -7,3 +7,38 @@
 	</a>
 </div>
 {% endfor%}
+
+#### Course Assistants
+<div id="ta-list">
+{% for people in site.course.ta %}
+	<div class="instructor ta">
+		<a target="_blank" href="{{ people.url }}">
+	        <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+	        <div style="text-align:center;"> {{ people.name }} </div>
+		</a>
+	</div>
+{% endfor%}
+</div>
+
+#### Additional Project Mentors 
+<div id="project-mentors-list">
+{% for people in site.course.project_mentor %}
+	<div class="instructor ta">
+		<a target="_blank" href="{{ people.url }}">
+	        <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
+	        <div style="text-align:center;"> {{ people.name }} </div>
+		</a>
+	</div>
+{% endfor%}
+</div>
+
+<script>
+function randomizeListOrder(field_name) {
+	var list = document.querySelector(field_name);
+	for (var i = list.children.length; i >= 0; i--) {
+		list.appendChild(list.children[Math.random() * i | 0]);
+	}
+}
+randomizeListOrder('#ta-list');
+randomizeListOrder('#project-mentors-list');
+</script>

@@ -12,6 +12,10 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
+            - item_name: Office Hours
+              item_url: '/officehours'
+            - item_name: Project
+              item_url: '/project'
             - item_name: FAQ
               item_url: '/faq'
     footer:
@@ -19,7 +23,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2020. - Stanford University <br>All rights reserved.
+            copyright: Copyright &copy; 2021. - Stanford University <br>All rights reserved.
     google_analytics: UA-180658495-1
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
@@ -41,7 +45,7 @@ course:
     quarter: 2020-21 Winter
     time: T/Th 2:30 PM - 3:50 PM
     venue: '<a href="https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09">Zoom</a>'
-    piazza: &pz 'https://piazza.com/class/kf0h64h1gem56g'
+    piazza: &pz 'http://piazza.com/stanford/winter2021/cs236g'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/1147'
         name: 'CS236G (2020-21 Winter)'
@@ -68,7 +72,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/125215/external_tools/5384'
+            url: 'https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d76ed749-1aaa-4fba-9c50-ac8b010eb6af%22'
             external_url: true
         queuestatus:
             icon:
@@ -78,18 +82,79 @@ course:
         project_appt_calendly:
             content: Meet with Project TA
             url: '/officehours/#table'
-            external_url: true
+            external_url: false
+        google_cal:
+            icon:
+            content: Calendar
+            url: '/officehours/#calendar'
+            external_url: false
     staff:
         - name: Sharon Zhou
           type: Instructor
           url: https://www.linkedin.com/in/zhousharon/
           image: sharon.png
-    
+          calendly: https://calendly.com/sharonz/cs236g-office-hours
+          zoom_id: 91766994906
+          zoom_link: https://stanford.zoom.us/s/91766994906?pwd=bG1mWnl6ZERXeHh3R2dzR2k3ZWJtQT09
+
     ta:
         - name: Gan Gogh
           type: TA
           url: https://artbreeder.com/
-          image: nophoto.jpg
-          zoom_id: 000
-          zoom_link: https://stanford.zoom.us/j/000
-          calendly: https://calendly.com/cs236g/gan-gogh
+          image: gangogh.jpg
+        - name: Eric Zelikman
+          type: TA
+          image: eric.png
+          zoom_id: 2213214134
+          zoom_link: https://stanford.zoom.us/j/2213214134?pwd=TjV4aTl5djhqcjRza3FNeVM3NDJXZz09
+          calendly: https://calendly.com/ezelikman/oh
+        - name: Hikaru Hotta
+          type: TA
+          image: hikaru.png
+          zoom_id: 97045267696
+          zoom_link: https://stanford.zoom.us/s/97045267696?pwd=MnNxck5VZzVWQldwZUV0OU9EUVo4UT09
+          calendly: https://calendly.com/hikaru-hotta/15min
+        - name: Silvia Gong
+          type: TA
+          image: silvia.png
+          zoom_id: 96502819445
+          zoom_link: https://stanford.zoom.us/j/96502819445?pwd=Sk5Vak9OSFduQkp1T2xtSERuYlY0QT09
+          calendly: https://calendly.com/silvgong
+        - name: Sofian Zalouk
+          type: TA
+          image: sofian.png
+          zoom_id: 91078117842
+          zoom_link: https://stanford.zoom.us/j/91078117842?pwd=dWlsRC9uOU9OczZBejlPTnFSZWd2dz09
+          calendly: https://calendly.com/szalouk/sofian-office-hours
+        - name: Vincent Liu
+          type: TA
+          image: vincent.png
+          zoom_id: 97931205842
+          zoom_link: https://stanford.zoom.us/s/97931205842?pwd=ZDhnMkcvVmRaMHZIL0JGRGhrSGZMZz09
+          calendly: https://calendly.com/vliu15/cs-236g-office-hours
+        - name: William Zhuk
+          type: TA
+          image: william.png
+          calendly: https://calendly.com/willzhuk/15min
+          zoom_id: 94672223884
+          zoom_link: https://stanford.zoom.us/j/94672223884?pwd=QXYwb3hQSVBSaDMyL0VYMHhaZXlGdz09
+
+    project_mentor:
+        - name: Claire Pajot
+          type: Mentor
+          image: claire.png
+          calendly: https://calendly.com/cpajot/cs236g-oh
+          zoom_id: 98386728001
+          zoom_link: https://stanford.zoom.us/j/98386728001?pwd=UWtJL1RjMmpMNUJEbTZaQ2RRTHMzQT09
+        - name: Louis Blankemeier
+          type: Mentor
+          image: louis.png
+          calendly: https://calendly.com/lblankem/louis-blankemeier-s-cs236g-office-hours
+          zoom_id: 96530342314
+          zoom_link: https://stanford.zoom.us/j/96530342314?pwd=Z2w2TThQV3hKdWM5K0p0SWJsUTNYQT09
+        - name: Tim Gianitsos
+          type: Mentor
+          image: tim.png
+          calendly: https://calendly.com/tgianit/cs236g-office-hours
+          zoom_id: 93076843389
+          zoom_link: https://stanford.zoom.us/j/93076843389?pwd=bDcxRTR2UnhQeFhXQTA5MVkrRGM1dz09

@@ -63,8 +63,10 @@
         </div>
     {% endif %}
 {% endfor%}
+										{% if page.show_lecture_time %}
 										<h4>Time and Location</h4>
                                                                                 <p>{{ site.course.time }} <br> {{ site.course.venue }}</p>
+                                        {% endif %}
 									</div><!-- /.hero-subheader__author -->
 								</div><!-- /.align-inner -->
 							</div><!-- /.align-container -->
@@ -72,18 +74,17 @@
 				</div><!-- /.row -->
 			</div><!-- /.container -->
 		</div><!-- /.hero-subheader -->
-		
-		<div style="display: flex"> 
-      			<div style="
-	          		flex-grow: 1;
-	          		height: 451px;
-	          		background-image: url(images/gans_demo_1.gif);
-	          		background-attachment: fixed;
-	          		background-size: auto;
-	          		background-position: left top;
-        		"></div>
-    		</div>
-		
+		{% if page.add_gif %}
+		<div class="frontpage-gif" style="display: flex"> 
+			<div style="flex-grow: 1;
+			      		height: 540px;
+				        background-image: url({{page.add_gif}});
+					background-image: -webkit-image-set(url({{page.add_webp}}) 1x);
+			      		background-size: auto;
+			      		background-position: left top;
+			    "></div>
+		</div>
+		{% endif %}
 		<div class="section">
 			<div class="container">
 				<div class="row">
