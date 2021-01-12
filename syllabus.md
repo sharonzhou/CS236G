@@ -37,7 +37,6 @@ micro_nav: false
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
 
-
 #### Week 2 : Picking a Breed of Dog to Generate
 ##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
@@ -61,9 +60,6 @@ micro_nav: false
 - Intuition of Precision vs. Recall in Generative Models
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
 
-
-
-
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
 ##### Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
 <div class="fig figcenter fighighlight">
@@ -79,9 +75,8 @@ micro_nav: false
 - StyleGAN2
 - Fine-tuning Large GANs, Pros/Cons
 
-
 #### Week 4 : Changing Painters, Species, and Seasons
-##### Image-to-Image Translation **[Problem set 3 due]** 
+##### Image-to-Image Translation **[Problem set 3 due]**  **[Project Inspo Part 1 Due]**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
@@ -106,15 +101,13 @@ micro_nav: false
 - GAN Inversion vs. Image Optimization
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
-
 #### Week 5 : Reading (and re-reading)
-##### Reading papers in GANs  **[Problem set 4 due]** 
+##### Reading papers in GANs  **[Problem set 4 due]** **[Project Inspo Part 2 Due]**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="../images/cycada.png">
 </div>
 
-- Research Papers
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
 - Adjacent Areas of Research: adversarial learning, robustness/adversarial attacks
@@ -122,10 +115,18 @@ micro_nav: false
     - Healthcare
     - Climate change
 
+#### Week 6: Projects
+**[[Project Proposal Due]](/project)**
+- Meeting with Mentors for feedback and direction
 
+#### Week 7: Projects
+**[[Milestone 1 Due]](/project)** 
 
-#### Week 6-9: Projects 
-**[Final Project check-in halfway through one of these weeks]**
+#### Week 8: Projects
+- Meeting with Mentors
+
+#### Week 9: Projects
+**[[Milestone 2 Due]](/project)**
 
 #### 10: The Finale
-**[Final Project due]**
+**[[Final Project due]](/project)**
