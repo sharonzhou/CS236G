@@ -22,10 +22,8 @@ micro_nav: false
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
 </div>
-<details>
-<summary>Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context</summary>
-<p>
 
+- Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context
 - Intuition Behind GANs
     - Role of the discriminator
     - Role of the generator
@@ -39,9 +37,6 @@ micro_nav: false
 - Condition on W-loss Critic
 - 1-Lipschitz Continuity Enforcement
 
-</p>
-</details>
-
 
 #### Week 2 : Picking a Breed of Dog to Generate
 ##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
@@ -50,10 +45,7 @@ micro_nav: false
   <img width="700" src="../images/ConditionalHusky.png">
 </div>
 
-<details>
-<summary>Conditional Generation: Intuition & Inputs </summary>
-<p>
-
+- Conditional Generation: Intuition & Inputs 
 - Controllable Generation and how it is situated vis-a-vis Conditional Generation
 - Vector Algebra in Latent Space
 - Challenges with Controllable Generation 
@@ -69,8 +61,7 @@ micro_nav: false
 - Intuition of Precision vs. Recall in Generative Models
 - Evaluating Disentanglement using the Classifier Method, Perceptual Path Length
 
-</p>
-</details>
+
 
 
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
@@ -78,10 +69,6 @@ micro_nav: false
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
 </div>
-
-<details>
-<summary>StyleGAN</summary>
-<p>
 
 - Components of StyleGAN: 
     - Disentangled Intermediate Latent W-Space
@@ -92,9 +79,6 @@ micro_nav: false
 - StyleGAN2
 - Fine-tuning Large GANs, Pros/Cons
 
-</p>
-</details>
-
 
 #### Week 4 : Changing Painters, Species, and Seasons
 ##### Image-to-Image Translation **[Problem set 3 due]** 
@@ -102,10 +86,6 @@ micro_nav: false
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
 </div>
-
-<details>
-<summary>Image-to-Image Translation</summary>
-<p>
 
 - Pix2Pix for Paired Image-to-Image Translation
     - U-Net, Skip Connections
@@ -126,10 +106,6 @@ micro_nav: false
 - GAN Inversion vs. Image Optimization
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
-</p>
-</details>
-
-
 
 #### Week 5 : Reading (and re-reading)
 ##### Reading papers in GANs  **[Problem set 4 due]** 
@@ -138,19 +114,13 @@ micro_nav: false
   <img width="700" src="../images/cycada.png">
 </div>
 
-<details>
-<summary>Research Papers</summary>
-<p>
-
+- Research Papers
 - Approach to Reading Research Papers: Skim Twice, Read Twice
 - Model Diagrams and Common Representations
 - Adjacent Areas of Research: adversarial learning, robustness/adversarial attacks
 - Compelling applied areas and research:
     - Healthcare
     - Climate change
-</p>
-
-</details>
 
 
 
