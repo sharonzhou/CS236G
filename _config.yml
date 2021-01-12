@@ -72,7 +72,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://canvas.stanford.edu/courses/125215/external_tools/5384'
+            url: 'https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d76ed749-1aaa-4fba-9c50-ac8b010eb6af%22'
             external_url: true
         queuestatus:
             icon:
