@@ -20,7 +20,7 @@ micro_nav: false
 ##### Introduction to Generative Models & Building Your First GAN 
 
 <div class="fig figcenter fighighlight">
-  <img src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
+  <img width="700" src="https://miro.medium.com/max/700/1*SkG-eUZOBIiW0U6kWDdY3A.png">
 </div>
 
 - Introduction to Generative Models vs. Discriminative Models, and where GANs are situated in this context
@@ -41,7 +41,7 @@ micro_nav: false
 ##### Controllable Generation and Conditional GAN  **[Problem set 1 due]**
 
 <div class="fig figcenter fighighlight">
-  <img src="../images/ConditionalHusky.png">
+  <img width="700" src="../images/ConditionalHusky.png">
 </div>
 
 - Conditional Generation: Intuition & Inputs 
@@ -63,7 +63,7 @@ micro_nav: false
 #### Week 3 : Making High Quality Faces (and Other Complex Things)
 ##### Advancements in GANs and State of the Art Improvements for StyleGAN, Fine-tuning GANs **[Problem set 2 due]**
 <div class="fig figcenter fighighlight">
-  <img src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
+  <img width="700" src="https://github.com/NVlabs/stylegan/raw/master/stylegan-teaser.png">
 </div>
 
 - Components of StyleGAN: 
@@ -76,10 +76,10 @@ micro_nav: false
 - Fine-tuning Large GANs, Pros/Cons
 
 #### Week 4 : Changing Painters, Species, and Seasons
-##### Image-to-Image Translation **[Problem set 3 due]** 
+##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due](/project)**
 
 <div class="fig figcenter fighighlight">
-  <img src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
+  <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
 </div>
 
 - Pix2Pix for Paired Image-to-Image Translation
@@ -102,10 +102,10 @@ micro_nav: false
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
 #### Week 5 : Reading (and re-reading)
-##### Reading papers in GANs  **[Problem set 4 due]** 
+##### Reading papers in GANs  **[Problem set 4 due]** **[[Project Inspo Part 2 Due]](/project)**
 
 <div class="fig figcenter fighighlight">
-  <img src="../images/cycada.png">
+  <img width="700" src="../images/cycada.png">
 </div>
 
 - Approach to Reading Research Papers: Skim Twice, Read Twice
@@ -115,8 +115,18 @@ micro_nav: false
     - Healthcare
     - Climate change
 
-#### Week 6-9: Projects 
-**[Final Project check-in halfway through one of these weeks]**
+#### Week 6: Projects
+##### **[[Project Proposal Due]](/project)**
+- Meeting with Mentors for feedback and direction
+
+#### Week 7: Projects
+##### **[[Milestone 1 Due]](/project)** 
+
+#### Week 8: Projects
+- Meeting with Mentors
+
+#### Week 9: Projects
+##### **[[Milestone 2 Due]](/project)**
 
 #### 10: The Finale
-**[Final Project due]**
+##### **[[Final Project due]](/project)**
