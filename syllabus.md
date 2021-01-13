@@ -76,7 +76,7 @@ micro_nav: false
 - Fine-tuning Large GANs, Pros/Cons
 
 #### Week 4 : Changing Painters, Species, and Seasons
-##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due](/project)**
+##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due]](/project)**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
