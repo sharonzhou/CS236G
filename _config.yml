@@ -92,6 +92,11 @@ course:
             content: Calendar
             url: '/officehours/#calendar'
             external_url: false
+        submit_memes:
+            icon:
+            content: Submit memes
+            url: 'https://forms.gle/AMpCSs5DB6GWx9QN6'
+            external_url: true
     staff:
         - name: Sharon Zhou
           type: Instructor
@@ -162,44 +167,3 @@ course:
           calendly: https://calendly.com/tgianit/cs236g-office-hours
           zoom_id: 93076843389
           zoom_link: https://stanford.zoom.us/j/93076843389?pwd=bDcxRTR2UnhQeFhXQTA5MVkrRGM1dz09
-
-
-# Course memes
-memes:
-    week1:
-        - path: fooled_discriminator_gf.jpeg
-          description: 
-          upvote_id: fooled_discriminator_gf
-        - path: gan_intuition_bestiter_queens_gambit.jpeg
-          description: 
-          upvote_id: gan_intuition_bestiter_queens_gambit
-        - path: gan_intuition_corporate_same_pic.jpeg
-          description: 
-          upvote_id: gan_intuition_corporate_same_pic
-        - path: gan_intuition_early_discriminator_two_buttons.jpeg
-          description: 
-          upvote_id: gan_intuition_early_discriminator_two_buttons
-        - path: gan_intuition_iter0_queens_gambit.jpeg
-          description: 
-          upvote_id: gan_intuition_iter0_queens_gambit
-        - path: gan_intuition_queens_gambit.jpeg
-          description: 
-          upvote_id: gan_intuition_queens_gambit
-        - path: gan_intuition_roles_queens_gambit.jpeg
-          description: 
-          upvote_id: gan_intuition_roles_queens_gambit
-        - path: noise_vector_z.gif
-          description: 
-          upvote_id: noise_vector_z
-        - path: real_fake_button.jpg
-          description: 
-          upvote_id: real_fake_button
-        - path: real_fake_corporate_same_pic.jpeg
-          description: 
-          upvote_id: real_fake_corporate_same_pic
-        - path: real_fake_disc_you_want_two_buttons.jpg
-          description: 
-          upvote_id: real_fake_disc_you_want_two_buttons
-        - path: real_x_fake_gz_disc_you_want_two_buttons.jpg
-          description: 
-          upvote_id: real_x_fake_gz_disc_you_want_two_buttons
