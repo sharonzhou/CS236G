@@ -89,7 +89,7 @@
 			<div class="container">
 				<div class="row">
 					{% if page.add_upvote_button == true %}
-					<div class="col-md-12">
+					<div class="col-md-7">
 						{% for meme in site.memes[page.meme_label] -%}
 						<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
 						<span> {{ meme.upvote_id }} </span>
