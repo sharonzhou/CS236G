@@ -88,7 +88,18 @@
 		<div class="section">
 			<div class="container">
 				<div class="row">
-					{% if page.micro_nav == true %}
+					{% if page.add_upvote_button == true %}
+					<div class="col-md-12">
+						<div class="content">
+						{% for meme in site.memes[page.meme_label] -%}
+							<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
+							<img src="./{{ meme.path }}" alt="image info" style="float:left; padding-bottom:10%">
+							<br>
+						{% endfor %}
+						</div><!-- /.content -->
+					</div>
+					<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+					{% elsif page.micro_nav == true %}
 					<div class="col-md-7">
 						<div class="content">
 							{{ content }}
@@ -99,13 +110,6 @@
 							<div class="sections-list js-sections js-affix js-scrollspy hidden-xs hidden-sm"></div><!-- /.sections-list -->
 						</div>
 					</div><!-- /.col -->
-					{% elsif page.add_upvote_button == true %}
-						{% for meme in site.memes.week1 -%}
-							<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
-							<img src="./{{ meme.path }}" alt="image info" style="float:left; padding-bottom:10%">
-							<br>
-						{% endfor %}
-						<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 					{% else %}
 					<div class="col-md-12">
 						<div class="content">
