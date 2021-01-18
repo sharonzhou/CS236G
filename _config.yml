@@ -169,37 +169,37 @@ memes:
     week1:
         - path: fooled_discriminator_gf.jpeg
           description: 
-          upvote_id:
+          upvote_id: fooled_discriminator_gf
         - path: gan_intuition_bestiter_queens_gambit.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_bestiter_queens_gambit
         - path: gan_intuition_corporate_same_pic.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_corporate_same_pic
         - path: gan_intuition_early_discriminator_two_buttons.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_early_discriminator_two_buttons
         - path: gan_intuition_iter0_queens_gambit.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_iter0_queens_gambit
         - path: gan_intuition_queens_gambit.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_queens_gambit
         - path: gan_intuition_roles_queens_gambit.jpeg
           description: 
-          upvote_id:
+          upvote_id: gan_intuition_roles_queens_gambit
         - path: noise-vector-z.gif
           description: 
-          upvote_id:
+          upvote_id: noise-vector-z
         - path: real_fake_button.jpg
           description: 
-          upvote_id:
+          upvote_id: real_fake_button
         - path: real_fake_corporate_same_pic.jpeg
           description: 
-          upvote_id:
+          upvote_id: real_fake_corporate_same_pic
         - path: real_fake_disc_you_want_two_buttons.jpg
           description: 
-          upvote_id:
+          upvote_id: real_fake_disc_you_want_two_buttons
         - path: real_x_fake_gz_disc_you_want_two_buttons.jpg
           description: 
-          upvote_id:
+          upvote_id: real_x_fake_gz_disc_you_want_two_buttons
