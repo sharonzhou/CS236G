@@ -97,6 +97,7 @@ course:
             content: Submit memes
             url: 'https://forms.gle/AMpCSs5DB6GWx9QN6'
             external_url: true
+
     staff:
         - name: Sharon Zhou
           type: Instructor
