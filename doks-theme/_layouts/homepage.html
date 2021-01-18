@@ -17,7 +17,8 @@
 								{% if page.description %}
 									<p class="hero-subheader__desc">{{ page.description }}</p>
 								{% endif %}
-								{% for button in page.buttons %}
+								{% for button_tag in page.buttons %}
+									{% assign button = site.course.links[button_tag] %}
 									{% if button.external_url == true %}
 									<a href="{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
@@ -26,7 +27,6 @@
 									{% else %}
 									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
-										{{ button.url }}
 										{{ button.content }}
 									</a>
 									{% endif %}
