@@ -91,10 +91,7 @@
 					{% if page.add_upvote_button == true %}
 					<div class="col-md-12">
 						{% for meme in site.memes[page.meme_label] -%}
-							<p>
-								<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
-								<img src="./{{ meme.path }}" alt="image info" style="float:left; padding-bottom:10%">
-							</p><br>
+							<img src="./{{ meme.path }}" alt="image info" style="float:left; padding-bottom:10%">
 						{% endfor %}
 					</div>
 					<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
