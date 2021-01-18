@@ -12,11 +12,15 @@ buttons:
 # Grid navigation
 grid_navigation:
     - title: Week 1
-      excerpt: Getting Started with Your Project
+      excerpt:
       cta: Read more
       url: /memes/1
     - title: Week 2
-      excerpt: Understanding Gradient Descent and Backpropagation
+      excerpt:
       cta: Read more
       url: /memes/2
+    - title: Week 3
+      excerpt:
+      cta: Read more
+      url: /memes/3
 ---
