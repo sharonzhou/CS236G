@@ -88,22 +88,7 @@
 		<div class="section">
 			<div class="container">
 				<div class="row">
-					{% if page.add_upvote_button == true %}
-<!-- 					<div class="col-md-7">
-						{% for meme in site.memes[page.meme_label] -%}
-						<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
-						<div class="inline-block">
-							<img src="./{{ meme.path }}" style="padding-bottom:10%">
-						</div>
-						{% endfor %}
-					</div> -->
-					<div class="col-md-7">
-						<div class="content">
-							{{ content }}
-						</div><!-- /.content -->
-					</div><!-- /.col -->
-					<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
-					{% elsif page.micro_nav == true %}
+					{% if page.micro_nav == true %}
 					<div class="col-md-7">
 						<div class="content">
 							{{ content }}
@@ -120,6 +105,9 @@
 							{{ content }}
 						</div><!-- /.content -->
 					</div>
+					{% endif %}
+					{% if page.add_upvote_button == true %}
+					<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
 					{% endif %}
 				</div><!-- /.row -->
 			</div><!-- /.container -->
