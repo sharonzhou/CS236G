@@ -15,10 +15,8 @@ grid_navigation:
       excerpt: Getting Started with Your Project
       cta: Read more
       url: /memes/1
-      external_url: false
     - title: Week 2
       excerpt: Understanding Gradient Descent and Backpropagation
       cta: Read more
       url: /memes/2
-      external_url: false
 ---
