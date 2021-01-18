@@ -100,7 +100,7 @@
 						</div>
 					</div><!-- /.col -->
 					{% elsif page.add_upvote_button == true %}
-						{% for meme in site.memes[page.meme_label] -%}
+						{% for meme in site.memes.week1 -%}
 							<span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span>
 							<img src="./{{ meme.path }}" alt="image info" style="float:left; padding-bottom:10%">
 							<br>
