@@ -14,13 +14,13 @@ grid_navigation:
     - title: Week 1
       excerpt:
       cta: Read more
-      url: ./1
+      url: ../1
     - title: Week 2
       excerpt:
       cta: Read more
-      url: ./2
+      url: ../2
     - title: Week 3
       excerpt:
       cta: Read more
-      url: ./3
+      url: ../3
 ---
