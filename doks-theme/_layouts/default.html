@@ -91,6 +91,8 @@
 					{% if page.add_upvote_button == true %}
 					<div class="col-md-12">
 						{% for meme in site.memes[page.meme_label] -%}
+						<!-- <span class="likebtn-wrapper" data-identifier={{ meme.upvote_id }}></span> -->
+						<span> {{ meme.upvote_id }} </span>
 						<div class="inline-block">
 							<img src="./{{ meme.path }}" style="padding-bottom:10%">
 						</div> <br>
