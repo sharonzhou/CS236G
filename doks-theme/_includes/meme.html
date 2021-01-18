@@ -1,6 +1,9 @@
-{% for img in site.memes[include.meme_label] %}
+{% for image in site.static_files %}
+{% if image.path contains {{ include.meme_dir }} %}
+{% assign upvote_id = image.path | remove: {{ include.meme_dir }} | remove: image.extname %}
 <table class="image" style="margin: 0 0 3rem 0;">
-<caption align="bottom"><span class="likebtn-wrapper" data-identifier={{ img.upvote_id }}></span></caption>
-<tr><td><img src="./{{ img.path }}" style="width: 100%" /></td></tr>
+<caption align="bottom"><span class="likebtn-wrapper" data-identifier={{ upvote_id }}></span></caption>
+<tr><td><img src="./{{ image.path }}" style="width: 100%" /></td></tr>
 </table>
+{% endif %}
 {% endfor %}
