@@ -1,4 +1,6 @@
+{% for img in site.memes[include.meme_label] %}
 <table class="image">
-<caption align="bottom"><span class="likebtn-wrapper" data-identifier={{ include.upvote_id }}></span></caption>
-<tr><td><img src="{{ include.image }}" style="width: 100%" /></td></tr>
+<caption align="bottom"><span class="likebtn-wrapper" data-identifier={{ img.upvote_id }}></span></caption>
+<tr><td><img src="./{{ img.path }}" style="width: 100%" /></td></tr>
 </table>
+{% endfor %}
