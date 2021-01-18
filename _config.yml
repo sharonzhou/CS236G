@@ -190,7 +190,7 @@ memes:
           upvote_id: gan_intuition_roles_queens_gambit
         - path: noise-vector-z.gif
           description: 
-          upvote_id: noise-vector-z
+          upvote_id: noise_vector_z
         - path: real_fake_button.jpg
           description: 
           upvote_id: real_fake_button
