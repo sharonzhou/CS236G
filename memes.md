@@ -14,13 +14,13 @@ grid_navigation:
     - title: Week 1
       excerpt:
       cta: Read more
-      url: /memes/1
+      url: ./memes/1
     - title: Week 2
       excerpt:
       cta: Read more
-      url: /memes/2
+      url: ./memes/2
     - title: Week 3
       excerpt:
       cta: Read more
-      url: /memes/3
+      url: ./memes/3
 ---
