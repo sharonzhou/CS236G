@@ -162,3 +162,42 @@ course:
           calendly: https://calendly.com/tgianit/cs236g-office-hours
           zoom_id: 93076843389
           zoom_link: https://stanford.zoom.us/j/93076843389?pwd=bDcxRTR2UnhQeFhXQTA5MVkrRGM1dz09
+
+    memes:
+        week1:
+            - path: fooled_discriminator_gf.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_bestiter_queens_gambit.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_corporate_same_pic.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_early_discriminator_two_buttons.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_iter0_queens_gambit.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_queens_gambit.jpeg
+              description: 
+              upvote_id:
+            - path: gan_intuition_roles_queens_gambit.jpeg
+              description: 
+              upvote_id:
+            - path: noise-vector-z.gif
+              description: 
+              upvote_id:
+            - path: real_fake_button.jpg
+              description: 
+              upvote_id:
+            - path: real_fake_corporate_same_pic.jpeg
+              description: 
+              upvote_id:
+            - path: real_fake_disc_you_want_two_buttons.jpg
+              description: 
+              upvote_id:
+            - path: real_x_fake_gz_disc_you_want_two_buttons.jpg
+              description: 
+              upvote_id:
