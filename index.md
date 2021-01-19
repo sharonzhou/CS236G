@@ -27,7 +27,7 @@ show_lecture_time: true
 - Reward risk-taking and creative exploration.
 
 ## Course Components
-* In class lectures - twice a week on {{ site.course.time}} (hosted on [Zoom](https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09)). 
+* In class lectures - twice a week on {{ site.course.time}} (hosted on [Zoom]({{ site.course.venue }})). 
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 
