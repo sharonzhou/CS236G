@@ -27,7 +27,7 @@ show_lecture_time: true
 - Reward risk-taking and creative exploration.
 
 ## Course Components
-* In class lectures - twice a week on {{ site.course.time}} (hosted on [Zoom]({{ site.course.venue }})). 
+* In class lectures - twice a week on {{ site.course.time}} (hosted on {{ site.course.venue }}). 
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 
