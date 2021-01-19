@@ -73,10 +73,11 @@ micro_nav: false
     - Adaptive Instance Normalization
     - Progressive Growing
 - StyleGAN2
+- Bias
 - Fine-tuning Large GANs, Pros/Cons
 
 #### Week 4 : Changing Painters, Species, and Seasons
-##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due](/project)**
+##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due]](/project)**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
@@ -95,6 +96,7 @@ micro_nav: false
     - GauGAN: Instance Segmentation to Images
     - Text-to-Image, Image-to-Text
     - Musical-Notes-to-Melody
+- Data augmentation
 - Image Editing, In-painting, and GAN Inversion
 - Image Editing, Photoshop 2.0
 - Inverting a GAN, Challenges from Increasing Model Size, BiGAN
