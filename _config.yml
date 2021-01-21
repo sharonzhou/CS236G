@@ -16,6 +16,8 @@ doks:
               item_url: '/officehours'
             - item_name: Project
               item_url: '/project'
+            - item_name: Memes
+              item_url: '/memes'
             - item_name: FAQ
               item_url: '/faq'
     footer:
@@ -88,6 +90,12 @@ course:
             content: Calendar
             url: '/officehours/#calendar'
             external_url: false
+        submit_memes:
+            icon:
+            content: Submit memes
+            url: 'https://forms.gle/AMpCSs5DB6GWx9QN6'
+            external_url: true
+
     staff:
         - name: Sharon Zhou
           type: Instructor
