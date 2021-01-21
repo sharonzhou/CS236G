@@ -48,7 +48,7 @@ permalink: /:title/
 course:
     quarter: 2020-21 Winter
     time: T/Th 2:30 PM - 3:20 PM
-    venue: '<a href="https://stanford.zoom.us/j/95170971060?pwd=bnNFU1pBWExlUlVUdDQ0RnNsYWQvQT09">Zoom</a>'
+    venue: '<a href="https://stanford.zoom.us/j/95821612145?pwd=dXVXd0hTdjBacTB6N0kwcG1RSkR4dz09">Zoom</a>'
     piazza: &pz 'http://piazza.com/stanford/winter2021/cs236g'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/1147'
