@@ -98,7 +98,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative!
 
-**Team Playa**: Equal participation within your pair (N/A if flying solo). This to reduce the case where one person does all the work, and make it a bit easier on an individual. Each partner will fill out a form, outline their own and their partner’s contribution to the project. 
+**Team Playa**: Equal participation within your group (N/A if flying solo). This to reduce the case where one person does all the work, and make it a bit easier on an individual. Each partner will fill out a form, outline their own and their partner’s contribution to the project. 
 
 **Don Quixote**: Make sure to include the quixotic experiments that you mentioned in Milestone 2 in your report. This will be weighted heavily as we want to encourage fearless exploration - don’t worry if experiments don’t pan out!
 
