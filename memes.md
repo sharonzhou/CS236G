@@ -12,4 +12,12 @@ grid_navigation:
       excerpt:
       cta: Read more
       url: ./1
+    - title: Week 2
+      excerpt:
+      cta: Read more
+      url: ./2
+    - title: Week 3
+      excerpt:
+      cta: Read more
+      url: ./3
 ---
