@@ -32,6 +32,7 @@ show_lecture_time: true
 * [The final project](/project)
 
 ## Lecture Schedule <a name="table"></a>
+
 | Date | Week | Title | Instructor |
 |------|:----:|------:|------------|
 | 01/12/2021 | 1 | Introduction | Sharon Zhou |
