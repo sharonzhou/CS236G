@@ -22,9 +22,9 @@ You can watch the lectures live by going to Canvas, and going to the <a href="ht
 
 ## What is the grading breakdown for this course?
  
-* 50%: Class project - creativity and equal participation within a group will be rewarded
-* 25%: Midterm
-* 25%: Programming assignments & quizzes
+* 60%: Class project - creativity and equal participation within a group will be rewarded
+* 5%: Midterm
+* 35%: Programming assignments & quizzes
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 
