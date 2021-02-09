@@ -31,6 +31,29 @@ show_lecture_time: true
 * Video lectures, programming assignments, and quizzes on Coursera
 * [The final project](/project)
 
+## Lecture Schedule <a name="table"></a>
+
+| Date | Week | Title | Instructor |
+|------|:----:|:-----:|------------|
+| 01/12/2021 | 1 | **Introduction** | Sharon Zhou |
+| 01/19/2021 | 2 | **Disentanglement** | Sharon Zhou |
+| 01/21/2021 | 2 | **Artbreeder** | Joel Simon |
+| 01/28/2021 | 3 | **Medicine + GANs** | Sharon's Research Group |
+| 01/30/2021 | 3 | **Project Inspo** | Sharon Zhou |
+| 02/05/2021 | 4 | **Finding Project Partners** | Sharon Zhou |
+| 02/07/2021 | 4 | **How to Read a Paper** | Sharon Zhou |
+| 02/09/2021 | 5 | **Reading Group** | Sharon Zhou |
+| 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | Hikaru Hotta / Vincent Liu |
+| 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | Hikaru Hotta / Vincent Liu |
+| 02/23/2021 | 7 | **Audio + GANs** | Vincent Liu |
+| 02/25/2021 | 7 | **Differential Privacy** | Tim Gianitsos |
+| 03/02/2021 | 8 | **Pix2PixHD** | Hikaru Hotta / Silvia Gong / William Zhuk |
+| 03/04/2021 | 8 | **Interim Project Showcase** | Sharon Zhou |
+| 03/09/2021 | 9 | **Video + GANs** | Sharon Zhou |
+| 03/11/2021 | 9 | **Text + GANs** | Sharon Zhou |
+| 03/16/2021 | 10 | **Project Showcase** | Sharon Zhou |
+| 03/18/2021 | 10 | **Project Showcase** | Sharon Zhou |
+
 ## Prerequisites
 Students are expected to have the following background:
  * Familiarity with basic programming (CS106B or CS101)
