@@ -34,7 +34,7 @@ show_lecture_time: true
 ## Lecture Schedule <a name="table"></a>
 
 | Date | Week | Title | Instructor |
-|------|:----:|:------|:------------:|
+|------|:----:|:-----:|------------|
 | 01/12/2021 | 1 | **Introduction** | Sharon Zhou |
 | 01/19/2021 | 2 | **Disentanglement** | Sharon Zhou |
 | 01/21/2021 | 2 | **Artbreeder** | Joel Simon |
@@ -42,7 +42,7 @@ show_lecture_time: true
 | 01/30/2021 | 3 | **Project Inspo** | Sharon Zhou |
 | 02/05/2021 | 4 | **Finding Project Partners** | Sharon Zhou |
 | 02/07/2021 | 4 | **How to Read a Paper** | Sharon Zhou |
-| 02/09/2021 | 5 | **Reading Group | Sharon Zhou |
+| 02/09/2021 | 5 | **Reading Group** | Sharon Zhou |
 | 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | Hikaru Hotta / Vincent Liu |
 | 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | Hikaru Hotta / Vincent Liu |
 | 02/23/2021 | 7 | **Audio + GANs** | Vincent Liu |
