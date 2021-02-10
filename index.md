@@ -36,7 +36,7 @@ show_lecture_time: true
 | Date | Week | Title |     Resources    | Instructor |
 |------|:----:|:-----:|:----------------:|------------|
 | 01/12/2021 | 1 | **Introduction** | [Slides](https://drive.google.com/file/d/1Hm_EOtZm94C9OARpkfeALd7pLmp3B9_5/view?usp=sharing)<br /> [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37811af7-b22c-417a-85d0-acae01804b1a) |Sharon Zhou |
-| 01/19/2021 | 2 | **Disentanglement** | [Slides](https://drive.google.com/file/d/1bkROHj6L5vyBBSmT6Dbk1LWq47Jqg7tB/view?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f463c8e0-bc3a-4e41-9118-acb5017eb6c7) | Sharon Zhou |
+| 01/19/2021 | 2 | **Disentanglement** | [Slides](https://drive.google.com/file/d/1PdxqnUtSjwXZS3R-eK3T67IpUVbqup0l/view?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f463c8e0-bc3a-4e41-9118-acb5017eb6c7) | Sharon Zhou |
 | 01/21/2021 | 2 | **Artbreeder** | [artbreeder.com](https://www.artbreeder.com/)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=856ca6b4-3ad2-4109-a8dd-acb800013d58) | Joel Simon |
 | 01/28/2021 | 3 | **Medicine + GANs** | [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa7885c2-d78e-4aab-944a-acbd00112be0) | Sharon's Research Group |
 | 01/30/2021 | 3 | **Project Inspo** | | Sharon Zhou |
