@@ -33,9 +33,9 @@ show_lecture_time: true
 
 ## Lecture Schedule <a name="table"></a>
 
-| Date | Week | Title | Instructor |
-|------|:----:|:-----:|------------|
-| 01/12/2021 | 1 | **Introduction** | Sharon Zhou |
+| Date | Week | Title | Resources | Instructor |
+|------|:----:|:-----:|:---------:|------------|
+| 01/12/2021 | 1 | **Introduction** | [Week_1a-1_welcome.pdf](https://drive.google.com/file/d/13-F37atfQBKZiH9tveq2KcfXqIm5vpR7/view?usp=sharing) [Week_1a-1_goals.pdf](https://drive.google.com/file/d/1LSFnDiqPq5JjiOMcD_irsHzhGi3kVWjP/view?usp=sharing) [Week1a-2_memes.pdf](https://drive.google.com/file/d/1Fq2Y2PdEz8TWnZdkY0-5Pq9JH4dORi8a/view?usp=sharing) |Sharon Zhou |
 | 01/19/2021 | 2 | **Disentanglement** | Sharon Zhou |
 | 01/21/2021 | 2 | **Artbreeder** | Joel Simon |
 | 01/28/2021 | 3 | **Medicine + GANs** | Sharon's Research Group |
