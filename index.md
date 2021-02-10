@@ -45,7 +45,7 @@ show_lecture_time: true
 | 02/09/2021 | 5 | **Reading Group** | [Paper](https://arxiv.org/abs/2007.15646)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ac03b9a-6219-4270-bde5-acca01843fc4) | Sharon Zhou |
 | 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | | Hikaru Hotta<br />Vincent Liu |
 | 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | | Hikaru Hotta<br />Vincent Liu |
-| 02/23/2021 | 7 | **Audio + GANs** | | Vincent Liu |
+| 02/23/2021 | 7 | **Speech + GANs** | | Vincent Liu |
 | 02/25/2021 | 7 | **Differential Privacy** | | Tim Gianitsos |
 | 03/02/2021 | 8 | **Pix2PixHD** | | Hikaru Hotta<br />Silvia Gong<br />William Zhuk |
 | 03/04/2021 | 8 | **Interim Project Showcase** | | Sharon Zhou |
