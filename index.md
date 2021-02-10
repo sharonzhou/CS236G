@@ -35,24 +35,24 @@ show_lecture_time: true
 
 | Date | Week | Title | Resources | Instructor |
 |------|:----:|:-----:|:---------:|------------|
-| 01/12/2021 | 1 | **Introduction** | [Week_1a-1_welcome.pdf](https://drive.google.com/file/d/13-F37atfQBKZiH9tveq2KcfXqIm5vpR7/view?usp=sharing) [Week_1a-1_goals.pdf](https://drive.google.com/file/d/1LSFnDiqPq5JjiOMcD_irsHzhGi3kVWjP/view?usp=sharing) [Week1a-2_memes.pdf](https://drive.google.com/file/d/1Fq2Y2PdEz8TWnZdkY0-5Pq9JH4dORi8a/view?usp=sharing) |Sharon Zhou |
-| 01/19/2021 | 2 | **Disentanglement** | Sharon Zhou |
-| 01/21/2021 | 2 | **Artbreeder** | Joel Simon |
-| 01/28/2021 | 3 | **Medicine + GANs** | Sharon's Research Group |
-| 01/30/2021 | 3 | **Project Inspo** | Sharon Zhou |
-| 02/05/2021 | 4 | **Finding Project Partners** | Sharon Zhou |
-| 02/07/2021 | 4 | **How to Read a Paper** | Sharon Zhou |
-| 02/09/2021 | 5 | **Reading Group** | Sharon Zhou |
-| 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | Hikaru Hotta / Vincent Liu |
-| 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | Hikaru Hotta / Vincent Liu |
-| 02/23/2021 | 7 | **Audio + GANs** | Vincent Liu |
-| 02/25/2021 | 7 | **Differential Privacy** | Tim Gianitsos |
-| 03/02/2021 | 8 | **Pix2PixHD** | Hikaru Hotta / Silvia Gong / William Zhuk |
-| 03/04/2021 | 8 | **Interim Project Showcase** | Sharon Zhou |
-| 03/09/2021 | 9 | **Video + GANs** | Sharon Zhou |
-| 03/11/2021 | 9 | **Text + GANs** | Sharon Zhou |
-| 03/16/2021 | 10 | **Project Showcase** | Sharon Zhou |
-| 03/18/2021 | 10 | **Project Showcase** | Sharon Zhou |
+| 01/12/2021 | 1 | **Introduction** | [Slides](https://drive.google.com/file/d/1Hm_EOtZm94C9OARpkfeALd7pLmp3B9_5/view?usp=sharing) [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37811af7-b22c-417a-85d0-acae01804b1a) |Sharon Zhou |
+| 01/19/2021 | 2 | **Disentanglement** | [Slides](https://drive.google.com/file/d/1bkROHj6L5vyBBSmT6Dbk1LWq47Jqg7tB/view?usp=sharing) [Video] (https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f463c8e0-bc3a-4e41-9118-acb5017eb6c7)| Sharon Zhou |
+| 01/21/2021 | 2 | **Artbreeder** | [artbreeder.com](https://www.artbreeder.com/) [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=856ca6b4-3ad2-4109-a8dd-acb800013d58) | Joel Simon |
+| 01/28/2021 | 3 | **Medicine + GANs** | [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa7885c2-d78e-4aab-944a-acbd00112be0) | Sharon's Research Group |
+| 01/30/2021 | 3 | **Project Inspo** | | Sharon Zhou |
+| 02/05/2021 | 4 | **Finding Project Partners** | | Sharon Zhou |
+| 02/07/2021 | 4 | **How to Read a Paper** | [Slides](https://drive.google.com/file/d/1sV_wVEYQIQk4UVjkFZbka33z8KJONuUU/view?usp=sharing) [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34486a24-962c-44ab-8aac-acc5017c7ad5) | Sharon Zhou |
+| 02/09/2021 | 5 | **Reading Group** | [Rewriting a Deep Generative Model](https://arxiv.org/abs/2007.15646) [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ac03b9a-6219-4270-bde5-acca01843fc4) | Sharon Zhou |
+| 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | | Hikaru Hotta / Vincent Liu |
+| 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | | Hikaru Hotta / Vincent Liu |
+| 02/23/2021 | 7 | **Audio + GANs** | | Vincent Liu |
+| 02/25/2021 | 7 | **Differential Privacy** | | Tim Gianitsos |
+| 03/02/2021 | 8 | **Pix2PixHD** | | Hikaru Hotta / Silvia Gong / William Zhuk |
+| 03/04/2021 | 8 | **Interim Project Showcase** | | Sharon Zhou |
+| 03/09/2021 | 9 | **Video + GANs** | | Sharon Zhou |
+| 03/11/2021 | 9 | **Text + GANs** | | Sharon Zhou |
+| 03/16/2021 | 10 | **Project Showcase** | | Sharon Zhou |
+| 03/18/2021 | 10 | **Project Showcase** | | Sharon Zhou |
 
 ## Prerequisites
 Students are expected to have the following background:
