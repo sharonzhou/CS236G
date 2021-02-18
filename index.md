@@ -43,8 +43,8 @@ show_lecture_time: true
 | 02/05/2021 | 4 | **Finding Project Partners** | | Sharon Zhou |
 | 02/07/2021 | 4 | **How to Read a Paper** | [Slides](https://drive.google.com/file/d/1sV_wVEYQIQk4UVjkFZbka33z8KJONuUU/view?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=34486a24-962c-44ab-8aac-acc5017c7ad5) | Sharon Zhou |
 | 02/09/2021 | 5 | **Reading Group** | [Paper](https://arxiv.org/abs/2007.15646)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ac03b9a-6219-4270-bde5-acca01843fc4) | Sharon Zhou |
-| 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | | Hikaru Hotta<br />Vincent Liu |
-| 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | | Hikaru Hotta<br />Vincent Liu |
+| 02/11/2021 | 5 | **PyTorch for GANs** Part 1 | [Notebook](https://colab.research.google.com/drive/1YkPs4N886UIeIKULWUidmRlqg67OddNd?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63d07b90-5790-4fd7-a891-accc0182bae6) | Hikaru Hotta<br />Vincent Liu |
+| 02/18/2021 | 6 | **PyTorch for GANs** Part 2 | [Notebook](https://colab.research.google.com/drive/1_V9KhDwM0x9cNzMarF7Yd6IJoUHhIkPo?usp=sharing)<br />[Video]()| Hikaru Hotta<br />Vincent Liu |
 | 02/23/2021 | 7 | **Audio + GANs** | | Vincent Liu |
 | 02/25/2021 | 7 | **Differential Privacy** | | Tim Gianitsos |
 | 03/02/2021 | 8 | **Pix2PixHD** | | Hikaru Hotta<br />Silvia Gong<br />William Zhuk |
