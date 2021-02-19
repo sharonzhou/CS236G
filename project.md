@@ -49,7 +49,7 @@ This section contains the detailed instructions for the different parts of your 
 
 ## Milestone 1 (***Due 2/24***) - 20%
 **I haz the data**: Prepare the data.
- - Your dataset will be submitted as part of our course’s “data stash”. We get really psyched when we have a good stash. 💫
+ - Your dataset will be submitted as part of our course’s “data stash”. If you can't share your data with everyone, no worries! We get really psyched when we have a good stash. 💫
  - Write a paragraph or two about your dataset. We recommend writing this as though you are writing the dataset portion of your final report. The paragraph(s) should contain:
      - The type of data
      - Where/how you obtained it
@@ -66,7 +66,7 @@ This section contains the detailed instructions for the different parts of your 
      - Experiment: Describe methods and results from experiments that you ran. Visualize and analyse sample outputs from your baseline model.
      - Next Steps: Describe what you plan to do next for Milestone 2
 
-**Submission**: Upload your dataset to CS236G’s GCS Bucket. Please find instructions on how to upload here. You should submit your draft on Gradescope as a pdf doc which should not exceed 3 pages. You should paste a url to your public github repository in the Gradescope submission.
+**Submission**: Upload your dataset to the [CS236G Data Stash](https://drive.google.com/drive/folders/1HfbARC5vqnJEr52gvCAl7OVvKcVaT8Rj?usp=sharing). Either upload your entire dataset to the Google Drive Folder (if it's a reasonable size) or upload a pdf with a link to the dataset. You should submit your draft to Gradescope as a pdf doc which should not exceed 3 pages. You should paste a url to your public github repository in the Gradescope submission.
 
 **Grading**: This milestone is intended to ensure that your team is on track and has completed a baseline. If you have completed all the bullet points above, you should do well.
 
