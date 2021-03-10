@@ -112,7 +112,7 @@ Below are some additional rubric items you should be aware of:
 
 - Novelty (3 points): At least 2 of {dataset, model, application} are novel.
 
-- Risky (4 points):
+- Risky (8 points):
     - Significant implementation risk (eg. multi-gpu training, mixed precision, difficult model implementations, etc.)
     - Signficant conceptual risk (eg. incorporate ideas from distant domains, testing methods unfounded in literature, etc.)
     - Data-related risk (eg. challenging dataset to compile/scrape and clean/preprocess, implemented difficult dataset class like 3D patching, etc.)
@@ -123,9 +123,9 @@ Below are some additional rubric items you should be aware of:
     - Show failed results.
     - Interesting pivot.
 
-**Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative!
+**Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative! (6 points)
 
-**Repository**: Your code should be organized and well commented with clear signs of original effort. It would be superb if you could open-source it!
+**Repository**: Your code should be organized and well commented with clear signs of original effort. It would be superb if you could open-source it! (6 points)
 
 **Contributions**: Submit information about individual contributions and project sharing.
 - TA Name
