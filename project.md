@@ -86,7 +86,7 @@ This section contains the detailed instructions for the different parts of your 
 **Grading**: This milestone is intended to ensure that your team is on track and has worked on improving on the baseline. If you have completed all the bullet points above, you should do well.
 
 ## Final Report (***Due 3/17***) - 40%
-**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using this template. 
+**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using the [CVPR style template](http://cvpr2020.thecvf.com/sites/default/files/2019-09/cvpr2020AuthorKit.zip).
 
 Below is the recommended format for the report:
 
