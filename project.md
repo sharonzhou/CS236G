@@ -96,7 +96,7 @@ Below is the recommended format for the report:
 
 - Introduction (2 points): Outline the problem your team worked on, its significance, and provide an overview of your results.
 
-- Background/Related Work (8 points): Cover all of background, previous works, and pitfalls (if applicable) in detail.
+- Background/Related Work (8 points): Cover all of background, related works (minimum of 5), and pitfalls (if applicable) in detail.
 
 - Dataset (4 points): Outline the type of data you used, where/how you obtained it, the size of the dataset, the train/validation/test splits, and preprocessing (if any) done on the dataset. Include basic stats, visualizations, and limitations if any.
 
