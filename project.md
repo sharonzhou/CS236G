@@ -86,22 +86,55 @@ This section contains the detailed instructions for the different parts of your 
 **Grading**: This milestone is intended to ensure that your team is on track and has worked on improving on the baseline. If you have completed all the bullet points above, you should do well.
 
 ## Final Report (***Due 3/17***) - 40%
-**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using this template. Below are the recommended format and rubric for the report:
- - Title, Author(s)
- - Abstract: Concisely outline the problem, your team’s approach, and findings.
- - Introduction: Outline the problem your team worked on, its significance, and provide an overview of your results.
- - Related Work: Outline how previous works have tackled technical challenges related to your line of work and how your approach is different.
- - Data: Outline the type of data you used, where/how you obtained it, the size of the dataset, the train/validation/test splits, and preprocessing (if any) done on the dataset.
- - Methods: Discuss and describe your approach and justify why it was used over alternate methods. Include diagrams, figures, and tables to delineate your methods.
- - Experiments: Outline the experiments which were performed to evaluate your approach. This could include an ablation study to demonstrate the impact of each of your methods (this is what your baseline is for), a hyper parameter search such as lambda values of loss function components, etc. If you tried to improve an existing model architecture, you could compare your experimental results with those of published works. Include graphs, tables, and figures to show your experimental results. Include the description and results of your risky experiments here! If it went well, congratulations! If it didn’t, that’s okay! Try to rationalize why your experiment may not have succeeded.
- - Conclusion: Summarize your results and what you have learned through your exploration. Mention how your exploration can be extended or applied to other contexts.
+**The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using the [CVPR style template](http://cvpr2020.thecvf.com/sites/default/files/2019-09/cvpr2020AuthorKit.zip).
 
-**Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative!
+Below is the recommended format for the report:
 
-**Team Playa**: Equal participation within your group (N/A if flying solo). This to reduce the case where one person does all the work, and make it a bit easier on an individual. Each partner will fill out a form, outline their own and their partner’s contribution to the project. 
+- Title, Authors(s)
 
-**Don Quixote**: Make sure to include the quixotic experiments that you mentioned in Milestone 2 in your report. This will be weighted heavily as we want to encourage fearless exploration - don’t worry if experiments don’t pan out!
+- Abstract (2 points): Concise summary of the problem, approach, and key results. Less than 300 words.
 
-**Submission**: On Gradescope, upload a pdf of the completed final report, submit a url to your video presentation and github repository, and complete the project contribution form.
+- Introduction (2 points): Outline the problem your team worked on, its significance, and provide an overview of your results.
 
-**Grading**: TBD with heavy weighting on risky experiments.
+- Background/Related Work (8 points): Cover all of background, related works (minimum of 5), and pitfalls (if applicable) in detail.
+
+- Dataset (4 points): Outline the type of data you used, where/how you obtained it, the size of the dataset, the train/validation/test splits, and preprocessing (if any) done on the dataset. Include basic stats, visualizations, and limitations if any.
+
+- Methods (6 points): Discuss and describe your approach and justify why it was used over alternate methods. Methods and approaches should be explained clearly supplemented with equations and diagrams.
+
+- Experiments (8 points): Outline the experiments which were performed to evaluate your approach. This could include an ablation study to demonstrate the impact of each of your methods (this is what your baseline is for), a hyper parameter search such as lambda values of loss function components, etc. If you tried to improve an existing model architecture, you could compare your experimental results with those of published works. Include graphs, tables, and figures to show your experimental results. Include the description and results of your risky experiments here! If it went well, congratulations! If it didn’t, that’s okay! Try to rationalize why your experiment may not have succeeded.
+
+- Analysis (8 points): Make a direct comparison to baselines/previous works and explain your results. Explore the tradeoffs between approaches with theoretical basis.
+
+- Conclusion (3 points):  Summarize your results and what you have learned through your exploration. Address areas for future exploration and research.
+
+Below are some additional rubric items you should be aware of:
+
+- Novelty (3 points): At least 2 of {dataset, model, application} are novel.
+
+- Risky (8 points):
+    - Significant implementation risk (eg. multi-gpu training, mixed precision, difficult model implementations, etc.)
+    - Signficant conceptual risk (eg. incorporate ideas from distant domains, testing methods unfounded in literature, etc.)
+    - Data-related risk (eg. challenging dataset to compile/scrape and clean/preprocess, implemented difficult dataset class like 3D patching, etc.)
+
+- Bonus (3 points):
+    - Create an interface for your model.
+    - Clean-up your repo significantly and open-source it.
+    - Show failed results.
+    - Interesting pivot.
+
+**Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative! (6 points)
+
+**Repository**: Your code should be organized and well commented with clear signs of original effort. It would be superb if you could open-source it! (6 points)
+
+**Contributions**: Submit information about individual contributions and project sharing.
+- TA Name
+- All contributors
+- Contributors for this class, if different from above
+- Name of other class/group, if applicable
+- Individual contributions (please be specific)
+- Contributions specific to this class
+
+**Don Quixote**: Make sure to include the quixotic (risky) experiments that you mentioned in Milestone 2 in your report. This will be weighted heavily as we want to encourage fearless exploration - don’t worry if experiments don’t pan out!
+
+**Submission**: On Gradescope, upload a pdf of the completed final report, submit a url to your video presentation and github repository, and complete the project contribution questions.
