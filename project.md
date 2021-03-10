@@ -94,7 +94,7 @@ Below is the recommended format for the report:
 
 - Abstract (2 points): Concise summary of the problem, approach, and key results. Less than 300 words.
 
-- Introduction (2 points): Outline the problem your team worked on, its significance, and provides an overview of  results.
+- Introduction (2 points): Outline the problem your team worked on, its significance, and provide an overview of your results.
 
 - Background/Related Work (8 points): Cover all of background, previous works, and pitfalls (if applicable) in detail.
 
@@ -102,11 +102,11 @@ Below is the recommended format for the report:
 
 - Methods (6 points): Discuss and describe your approach and justify why it was used over alternate methods. Methods and approaches should be explained clearly supplemented with equations and diagrams.
 
-- Experiments (8 points): Outline the experiments which were performed to evaluate your approach. This could include an ablation study to demonstrate the impact of each of your methods (this is what your baseline is for), a hyper parameter search such as lambda values of loss function components, etc. If you tried to improve an existing model architecture, you could compare your experimental results with those of published works. Include graphs, tables, and figures to show your experimental results. Include the description and results of your risky experiments here! If it went well, congratulations! If it didn’t, that’s okay! Try to rationalize why your experiment may not have succeeded. Summarize your results in visuals (graph/table) and use an appropriate evaluation metric.
+- Experiments (8 points): Outline the experiments which were performed to evaluate your approach. This could include an ablation study to demonstrate the impact of each of your methods (this is what your baseline is for), a hyper parameter search such as lambda values of loss function components, etc. If you tried to improve an existing model architecture, you could compare your experimental results with those of published works. Include graphs, tables, and figures to show your experimental results. Include the description and results of your risky experiments here! If it went well, congratulations! If it didn’t, that’s okay! Try to rationalize why your experiment may not have succeeded.
 
-- Analysis (8 points): Direct comparison to baselines/previous works and makes a good attempt at explaining results. Explores the tradeoffs between approaches with theoretical basis.
+- Analysis (8 points): Make a direct comparison to baselines/previous works and explain your results. Explore the tradeoffs between approaches with theoretical basis.
 
-- Conclusion (3 points):  Summarize your results and what you have learned through your exploration. Addresses areas for future exploration and research.
+- Conclusion (3 points):  Summarize your results and what you have learned through your exploration. Address areas for future exploration and research.
 
 Below are some additional rubric items you should be aware of:
 
@@ -119,8 +119,8 @@ Below are some additional rubric items you should be aware of:
 
 - Bonus (3 points):
     - Create an interface for your model.
-    - Cleaned-up your repo significantly and open-sourced it.
-    - Shows failed results.
+    - Clean-up your repo significantly and open-source it.
+    - Show failed results.
     - Interesting pivot.
 
 **Virtually-famous**: Submit a video no longer than two minutes about your project. Get creative!
@@ -135,6 +135,6 @@ Below are some additional rubric items you should be aware of:
 - Individual contributions (please be specific)
 - Contributions specific to this class
 
-**Don Quixote**: Make sure to include the quixotic experiments that you mentioned in Milestone 2 in your report. This will be weighted heavily as we want to encourage fearless exploration - don’t worry if experiments don’t pan out!
+**Don Quixote**: Make sure to include the quixotic (risky) experiments that you mentioned in Milestone 2 in your report. This will be weighted heavily as we want to encourage fearless exploration - don’t worry if experiments don’t pan out!
 
 **Submission**: On Gradescope, upload a pdf of the completed final report, submit a url to your video presentation and github repository, and complete the project contribution questions.
