@@ -20,4 +20,8 @@ grid_navigation:
       excerpt:
       cta: Read more
       url: ./3
+    - title: Student submissions
+      excerpt:
+      cta: Read more
+      url: ./student_submissions
 ---
