@@ -6,7 +6,7 @@ comments: false
  
 # Hero section
 title: Student Submitted Memes
-description: Memes submitted by the wondeful students of CS236!
+description: Memes submitted by the wondeful students of CS236G!
  
 # Micro navigation
 micro_nav: true
