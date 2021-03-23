@@ -1,8 +1,6 @@
 title: CS236G Generative Adversarial Networks (GANs)
 repository: "CS236G"
-# baseurl: "https://cs236g.stanford.edu"
-baseurl: "/"
-site: https://szalouk.github.io
+baseurl: "https://cs236g.stanford.edu"
 
 # Theme settings
 doks:
