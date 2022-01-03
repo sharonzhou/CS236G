@@ -35,21 +35,17 @@ show_lecture_time: true
 
 | Date | Week | Title |     Resources    |
 |------|:----:|:-----:|:----------------:|
-| 01/4/2021 | 1 | **Introduction** | [Slides](https://drive.google.com/file/d/1Hm_EOtZm94C9OARpkfeALd7pLmp3B9_5/view?usp=sharing)<br /> [Video 1](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=525639ad-3bb0-4340-9a72-ae120002cd9f) |
-| 01/11/2021 | 2 | **Disentanglement** | [Slides](https://drive.google.com/file/d/1PdxqnUtSjwXZS3R-eK3T67IpUVbqup0l/view?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ca1879-079e-43b2-8f2e-ae120042fa00) |
-| 01/18/2021 | 3 | **Artbreeder** | [Artbreeder (Joel)](https://www.artbreeder.com/)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a262eec-2730-467a-92dd-ae120042e985) |
-| 01/25/2021 | 4 | **Project Inspo** | [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ef9ec0c-5444-47a6-8942-ae120002ce05) |
-| 02/01/2021 | 5 | **Finding Project Partners** | |
-| 02/08/2021 | 6 | **How to Read a Paper** | [Slides](https://drive.google.com/file/d/1sV_wVEYQIQk4UVjkFZbka33z8KJONuUU/view?usp=sharing)<br />[Video](https://www.youtube.com/watch?v=ReIZgbCwfg0) |
-| 02/15/2021 | 7 | **Reading Group** | |
-| 02/22/2021 | 8 | **PyTorch for GANs** Part 1 | [Notebook](https://colab.research.google.com/drive/1YkPs4N886UIeIKULWUidmRlqg67OddNd?usp=sharing)<br />[](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63d07b90-5790-4fd7-a891-accc0182bae6) |
-| 02/24/2021 | 8 | **PyTorch for GANs** Part 2 | [Notebook](https://colab.research.google.com/drive/1_V9KhDwM0x9cNzMarF7Yd6IJoUHhIkPo?usp=sharing)<br />[GAN Starter Notebook](https://colab.research.google.com/drive/1q2eX8jY4269ITK48OAA14d-qARcGoEAo?usp=sharing)<br />[AWS Instructions](https://docs.google.com/document/d/1JvNcl8WXPGt5rPqWYlIcIePd_ov0FveXyGZlXn3Vc2Y/edit?usp=sharing)<br />[](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d61a4316-f7bd-47d3-9473-acd3018728f1) |
-| 03/01/2021 | 8 | **Interim Project Showcase** | |
-| 03/08/2021 | 9 | **Project Showcase** | |
-| 03/16/2021 | 10 | **Project Showcase** | |
-
-[]([Paper](https://arxiv.org/abs/2007.15646)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ac03b9a-6219-4270-bde5-acca01843fc4) |)
-[](| 03/08/2021 | 10 | **Pix2PixHD** | [Notebook](https://colab.research.google.com/drive/11E-YhRUAMMdzjN70ee9N08q6eRAX338r?usp=sharing)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f46f57b3-9163-453f-960e-ace00120c732) |)
+| 01/4/2021 | 1 | **Introduction & Coursera** | [Slides](https://drive.google.com/file/d/1Hm_EOtZm94C9OARpkfeALd7pLmp3B9_5/view?usp=sharing)<br /> [Welcome Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=525639ad-3bb0-4340-9a72-ae120002cd9f) <br /> [Course Overview Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5bed7c96-16b5-4c00-bb06-ae120002f65e) <br /> [Coursera](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans) |
+| 01/11/2021 | 2 | **Coursera & Project Inspo** | [Coursera 1](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)<br />[Coursera 2](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) <br/> [Project Inspo](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ef9ec0c-5444-47a6-8942-ae120002ce05) |
+| 01/18/2021 | 3 | **Coursera** | [Coursera](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans) |
+| 01/25/2021 | 4 | **Coursera** | [Coursera](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans) |
+| 02/01/2021 | 5 | **Midterm & How to Read a Paper** | [Slides](https://drive.google.com/file/d/1sV_wVEYQIQk4UVjkFZbka33z8KJONuUU/view?usp=sharing)<br />[How to Read a Paper Video](https://www.youtube.com/watch?v=ReIZgbCwfg0) |
+| 02/08/2021 | 6 | **GANs Project Workshop** Part 1 | [Notebook](https://colab.research.google.com/drive/1YkPs4N886UIeIKULWUidmRlqg67OddNd?usp=sharing)<br />[](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63d07b90-5790-4fd7-a891-accc0182bae6) |
+| 02/10/2021 | 6 | **GANs Project Workshop** Part 2 | [Notebook](https://colab.research.google.com/drive/1_V9KhDwM0x9cNzMarF7Yd6IJoUHhIkPo?usp=sharing)<br />[GAN Starter Notebook](https://colab.research.google.com/drive/1q2eX8jY4269ITK48OAA14d-qARcGoEAo?usp=sharing)<br />[AWS Instructions](https://docs.google.com/document/d/1JvNcl8WXPGt5rPqWYlIcIePd_ov0FveXyGZlXn3Vc2Y/edit?usp=sharing)<br />[](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d61a4316-f7bd-47d3-9473-acd3018728f1) |
+| 02/15/2021 | 7 | **Artbreeder** | [Artbreeder (Joel)](https://www.artbreeder.com/)<br />[Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a262eec-2730-467a-92dd-ae120042e985) |
+| 03/01/2021 | 8 | **Disentanglement & Interim Project Showcase** | [Disentanglement Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29ca1879-079e-43b2-8f2e-ae120042fa00) |
+| 03/08/2021 | 9 | **BigGAN** | [Video](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8eae3ce5-0eb3-4225-9118-ae120002ce2f) |
+| 03/16/2021 | 10 | **NVIDIA Research & Project Showcase** | [NVIDIA Research Interview](https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=232b1ff2-ac5d-4a89-9306-ae120002ce5a) |
 
 
 ## Prerequisites
