@@ -19,7 +19,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Submission:** We will be using Gradescope for submission of all parts of the final project. We’ll announce when submissions are open for each part. You should submit on Gradescope as a group: that is, for each part, please make one submission for your entire project group and tag your team members.
 
-## Project Inspo Part 1 (***Due 1/31***) - 5%
+## Project Inspo Part 1 (***Due 1/23***) - 5%
 **Inspo**: Start exploring project ideas you find interesting (papers, blog posts, etc.). Either:
  - Discuss a project idea with a TA.
  - Write up a paragraph about an idea from this [spreadsheet](https://docs.google.com/spreadsheets/d/10yi7lMdpbz-u_0S9xTBMuDPOdfzDpF_JZu2P40ZC_nk/edit?usp=drive_web&ouid=111642539912347805933).
@@ -28,7 +28,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: Graded on completion.
 
-## Project Inspo Part 2 (***Due 2/7***) - 5%
+## Project Inspo Part 2 (***Due 1/30***) - 5%
 **Inspo**: Find sources of inspiration that you think are cool.
  - You must include 7 sources, at least 2 of which must be academic papers, and write a brief paragraph on each
  - In your paragraph, give a brief mention of the sources that they relied on.
@@ -37,7 +37,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: This checkpoint is intended to help you read a wide variety of resources to find inspiration for your project. You will be assessed on the diversity of material (to prevent student mode collapse :D).
 
-## Project Proposal (***Due 2/14***) - 10%
+## Project Proposal (***Due 2/6***) - 10%
 **Idea spew**: Let’s generate project ideas.
  - Create a list of 2+ project ideas you’d be interested in exploring. 
  - Include the dataset you plan to use, the model architecture, and the real-world application this will be used towards. 
@@ -47,7 +47,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: The project proposal is intended to help you get into the habit of reading papers and thinking about your project. As long as you follow the instructions above and have two solid project ideas which follow the requirements, you should do well.
 
-## Milestone 1 (***Due 2/24***) - 20%
+## Milestone 1 (***Due 2/16***) - 20%
 **I haz the data**: Prepare the data.
  - Your dataset will be submitted as part of our course’s “data stash”. If you can't share your data with everyone, no worries! We get really psyched when we have a good stash. 💫
  - Write a paragraph or two about your dataset. We recommend writing this as though you are writing the dataset portion of your final report. The paragraph(s) should contain:
@@ -66,11 +66,11 @@ This section contains the detailed instructions for the different parts of your 
      - Experiment: Describe methods and results from experiments that you ran. Visualize and analyse sample outputs from your baseline model.
      - Next Steps: Describe what you plan to do next for Milestone 2
 
-**Submission**: Upload your dataset to the [CS236G Data Stash](https://drive.google.com/drive/folders/1HfbARC5vqnJEr52gvCAl7OVvKcVaT8Rj?usp=sharing). Either upload your entire dataset to the Google Drive Folder (if it's a reasonable size) or upload a pdf with a link to the dataset. You should submit your draft to Gradescope as a pdf doc which should not exceed 3 pages. You should paste a url to your public github repository in the Gradescope submission.
+**Submission**: Upload your dataset to the [CS236G Data Stash](https://drive.google.com/drive/folders/1jvKFgM3y8Q3RIibqDOUpVFB2-X3RxSkW?usp=sharing). Either upload your entire dataset to the Google Drive Folder (if it's a reasonable size) or upload a pdf with a link to the dataset. You should submit your draft to Gradescope as a pdf doc which should not exceed 3 pages. You should paste a url to your public github repository in the Gradescope submission.
 
 **Grading**: This milestone is intended to ensure that your team is on track and has completed a baseline. If you have completed all the bullet points above, you should do well.
 
-## Milestone 2 (***Due 3/7***) - 20%
+## Milestone 2 (***Due 2/27***) - 20%
 **Ignition on**: You should have largely implemented the plan you set sail for ⛵️ (or an alternative prospect that you pivoted to).
  - Submit your project’s github repository with clear instructions on how to run training and evaluation on your improved model in the README.md. Your code should be clean and well commented. Make sure that your github repository is public so your TAs can grade your submission.
  - Expand on the early draft of your report from Milestone 1 by drafting the following sections:
@@ -85,7 +85,7 @@ This section contains the detailed instructions for the different parts of your 
 
 **Grading**: This milestone is intended to ensure that your team is on track and has worked on improving on the baseline. If you have completed all the bullet points above, you should do well.
 
-## Final Report (***Due 3/17***) - 40%
+## Final Report (***Due 3/9***) - 40%
 **The Finale**: Finish up your final draft! The project report should be at most 7 pages long and be written using the [CVPR style template](http://cvpr2020.thecvf.com/sites/default/files/2019-09/cvpr2020AuthorKit.zip).
 
 Below is the recommended format for the report:
