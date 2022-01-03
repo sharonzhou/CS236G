@@ -77,7 +77,7 @@ micro_nav: false
 - Fine-tuning Large GANs, Pros/Cons
 
 #### Week 4 : Changing Painters, Species, and Seasons
-##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due]](/project)**
+##### Image-to-Image Translation **[Problem set 3 due]**  **[[Project Inspo Part 1 Due]](/project/#project-inspo-part-1-due-131---5)**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="https://junyanz.github.io/CycleGAN/images/teaser.jpg">
@@ -104,7 +104,7 @@ micro_nav: false
 - Combining Inversion Techniques (“Warm Start”) with Optimization
 
 #### Week 5 : Reading (and re-reading)
-##### Reading papers in GANs  **[Problem set 4 due]** **[[Project Inspo Part 2 Due]](/project)**
+##### Reading papers in GANs  **[Problem set 4 due]** **[[Project Inspo Part 2 Due]](/project/#project-inspo-part-2-due-27---5)**
 
 <div class="fig figcenter fighighlight">
   <img width="700" src="../images/cycada.png">
@@ -118,17 +118,17 @@ micro_nav: false
     - Climate change
 
 #### Week 6: Projects
-##### **[[Project Proposal Due]](/project)**
+##### **[[Project Proposal Due]](/project/#project-proposal-due-214---10)**
 - Meeting with Mentors for feedback and direction
 
 #### Week 7: Projects
-##### **[[Milestone 1 Due]](/project)** 
+##### **[[Milestone 1 Due]](/project/#milestone-1-due-224---20)** 
 
 #### Week 8: Projects
-- Meeting with Mentors
+##### Meeting with Mentors
 
 #### Week 9: Projects
-##### **[[Milestone 2 Due]](/project)**
+##### **[[Milestone 2 Due]](/project/#milestone-2-due-37---20)**
 
 #### 10: The Finale
-##### **[[Final Project due]](/project)**
+##### **[[Final Project due]](/project/#final-report-due-317---40)**
