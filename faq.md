@@ -15,16 +15,16 @@ micro_nav: false
 ---
 
 ## What's up with lectures?
-Lectures are Tuesdays & Thursdays 2:30-3:50PM PST over Zoom. Tuesdays will cover general material, and Thursdays will delve a bit deeper. Feel free to skip and post on Piazza if that's more your jam. 
+Lectures are Tuesdays & Thursdays 8PM PST over Zoom. This is a flipped classroom setting, so please bring questions and comments. Feel free to skip and post on Piazza if that's more your jam. 
 
 ## What are some ways I can do lecture, if I like learning that way?
-You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/117317/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
+You can watch the lectures live by going to Canvas, and going to the <a href="https://canvas.stanford.edu/courses/149782/external_tools/5384">Zoom tab</a>. Recordings will also be posted after lecture onto Canvas.
 
 ## What is the grading breakdown for this course?
  
-* 60%: Class project - creativity and equal participation within a group will be rewarded
-* 5%: Midterm
 * 35%: Programming assignments & quizzes
+* 5%: Midterm
+* 60%: Class project - creativity and equal participation within a group will be rewarded
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 
@@ -38,7 +38,7 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [GANs Speciali
 ## How do I submit assignments?
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/000). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **3YPD7E**.
+You will submit your [project deliverables](/project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/345140). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **5V3RWR**.
 
 ## What is the late day policy? 
 No late days. We won't grade them. You'll probably still do fine in the class.
@@ -69,4 +69,4 @@ We strongly encourage students to form study groups. Students may discuss and wo
 [The Stanford Honor Code as it pertains to CS courses](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf)
 
 ## Can I audit CS236G?
-Yes! If you have a Stanford ID. You'll get access to some materials (but likely not all).
+Yes! If you have a Stanford ID. Please make a private [Piazza](https://piazza.com/class/kxxwgl8l1xx3r6) post and we'll get on it shortly.

@@ -63,14 +63,14 @@ Students are expected to have the following background:
 
 ## Grading
  
-* 60%: Class project - creativity and equal participation within a group will be rewarded
 * 35%: Programming assignments
 * 5%: Midterm
+* 60%: Class project - creativity and equal participation within a group will be rewarded
 * 0%: Attendance
 * Extra credit: Your (or your GAN-generated) Memes. Requirements: Relevant and Appropriate with capital R and A there.
 
 ## Auditing
 
-All students who are looking to audit the course should complete and submit the following [form](https://forms.gle/bynot3sy8smWKf2V8). You should receive an invitation to the course's Canvas and the Coursera course in your Stanford email within 24-48 hours of submitting this form. Make a private piazza post (preferred) or email <{{ site.course.qa }}> if you did receive get the invitations.
+All students who are looking to audit the course should make a private post on [Piazza]({{ site.course.piazza }}). You should receive an invitation to the course's Canvas and the Coursera course in your Stanford email within 24-48 hours of submitting this form. Make a private piazza post (preferred) or email <{{ site.course.qa }}> if you did receive get the invitations.
 
 This site was forked from CS230: Deep Learning (https://CS230.stanford.edu).

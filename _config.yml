@@ -12,8 +12,6 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
-            - item_name: Office Hours
-              item_url: '/officehours'
             - item_name: Project
               item_url: '/project'
             - item_name: Memes
@@ -45,9 +43,9 @@ permalink: /:title/
 # Course logistics
 course:
     quarter: 2020-21 Winter
-    time: T/Th 2:30 PM - 3:20 PM
-    venue: '<a href="https://stanford.zoom.us/j/95821612145?pwd=dXVXd0hTdjBacTB6N0kwcG1RSkR4dz09">Zoom</a>'
-    piazza: &pz 'http://piazza.com/stanford/winter2021/cs236g'
+    time: T/Th 8:00 PM
+    venue: '<a href="https://stanford.zoom.us/j/97968611268?pwd=a1dOazRmREtQV005SEM1eEZQRXRQQT09">Zoom</a>'
+    piazza: &pz 'http://piazza.com/stanford/winter2022/cs236g'
     queuestatus:
         url: &qs 'https://queuestatus.com/queues/1147'
         name: 'CS236G (2020-21 Winter)'
@@ -74,7 +72,7 @@ course:
         video:
             icon:
             content: Lecture videos (Canvas)
-            url: 'https://stanford-pilot.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d76ed749-1aaa-4fba-9c50-ac8b010eb6af%22'
+            url: 'https://canvas.stanford.edu/courses/149782'
             external_url: true
         queuestatus:
             icon:
