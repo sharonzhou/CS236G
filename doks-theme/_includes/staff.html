@@ -10,7 +10,7 @@
 
 #### Course Assistants
 <div id="ta-list">
-{% for people in site.course.ta %}
+{% for people in site.course.ca %}
 	<div class="instructor ta">
 		<a target="_blank" href="{{ people.url }}">
 	        <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">

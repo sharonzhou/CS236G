@@ -103,49 +103,49 @@ course:
           zoom_id: 91766994906
           zoom_link: https://stanford.zoom.us/s/91766994906?pwd=bG1mWnl6ZERXeHh3R2dzR2k3ZWJtQT09
 
-    ta:
+    ca:
+        - name: Gan Gogh
+          type: CA
+          url: https://artbreeder.com/
+          image: gangogh.jpg
+
         - name: Eric Zelikman
-          type: TA
+          type: CA
           image: eric.png
 
         - name: Anuj Nagpal
-          type: TA
+          type: CA
           image: anuj.jpeg
-          url: https://anujnag.github.io/
 
         - name: Alex Ke
-          type: TA
+          type: CA
           image: alex.jpeg
 
         - name: Mehmet Giray Öğüt
-          type: TA
+          type: CA
           image: giray.jpg
 
         - name: Jack Lee
-          type: TA
+          type: CA
           image: jack.jpg
 
         - name: Rafael Xavier Esteves
-          type: TA
+          type: CA
           image: rafael.jpeg
 
         - name: Vamsi Saladi
-          type: TA
+          type: CA
           image: vamsi.png
 
         - name: Xi Yan
-          type: TA
+          type: CA
           image: xi_yan.jpg
 
         - name: Jian Vora
-          type: TA
+          type: CA
           image: jian.jpeg
     
     old_staff:
-        - name: Gan Gogh
-          type: TA
-          url: https://artbreeder.com/
-          image: gangogh.jpg
         - name: Eric Zelikman
           type: TA
           image: eric.png
