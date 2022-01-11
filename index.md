@@ -28,7 +28,7 @@ show_lecture_time: true
 
 ## Course Components
 * In class lectures - twice a week on {{ site.course.time}} (hosted on {{ site.course.venue }}). 
-* Video lectures, programming assignments, and quizzes on Coursera
+* Video lectures, programming assignments, and quizzes on Coursera.
 * [The final project](/project)
 
 ## Lecture Schedule <a name="table"></a>
