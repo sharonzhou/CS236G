@@ -38,7 +38,7 @@ One module of the [deeplearning.ai](https://www.deeplearning.ai/) [GANs Speciali
 ## How do I submit assignments?
 From the Coursera sessions (accessible from the invite you receive by email), you will be able to watch videos, solve quizzes and complete programming assignments. Each quiz and programming assignment can be submitted directly from the session and will be graded by our autograders.
 
-You will submit your [project deliverables](/project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/345140). You should be added to Gradescope automatically by the end of the first week. If not you can join with course code **5V3RWR**.
+You will submit your [project deliverables](/project/#class-project-deliverables) on [Gradescope](https://www.gradescope.com/courses/345140).
 
 ## What is the late day policy? 
 No late days. We won't grade them. You'll probably still do fine in the class.
@@ -50,7 +50,7 @@ Yes, but it's not encourage. You will have to be able to describe it, and show g
 Yes, we're OK with it -- as long as your other class is OK with it. Just make sure to specify that you are doing that, and we ask that you have the same student partners there and here.
 
 ## How many people can be on a team?
-Max 2 people per team -- or feel free to do the project alone. A larger team size will be taken under consideration when evaluating the scope of the project in breadth and depth, meaning that a 2-person team is expected to accomplish more than a 1-person team would.
+Max 3 people per team -- or feel free to do the project alone. A larger team size will be taken under consideration when evaluating the scope of the project in breadth and depth, meaning that a 2-person team is expected to accomplish more than a 1-person team would.
 
 ## Where can I find some project inspiration?
 [Awesome GAN](https://github.com/nightrome/really-awesome-gan)
@@ -69,4 +69,4 @@ We strongly encourage students to form study groups. Students may discuss and wo
 [The Stanford Honor Code as it pertains to CS courses](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/honor-code.pdf)
 
 ## Can I audit CS236G?
-Yes! If you have a Stanford ID. Please make a private [Piazza](https://piazza.com/class/kxxwgl8l1xx3r6) post and we'll get on it shortly.
+Yes! If you have a Stanford ID. Please make a private [Ed Stem](https://edstem.org/us/courses/16967/) post and we'll get on it shortly.
