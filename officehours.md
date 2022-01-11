@@ -13,11 +13,11 @@ micro_nav: false
 
 | Course Staff |     Office Hour Signup     | Zoom URL |
 |--------------|:--------------------------:|----------|
-{% assign people = site.course.staff | concat: site.course.ta | concat: site.course.project_mentor -%}
-{% for ta in people -%}
-{% unless ta.zoom_id == null or ta.calendly == null -%}
+{% assign people = site.course.staff | concat: site.course.ca -%}
+{% for ca in people -%}
+{% unless ca.zoom_id == null or ca.calendly == null -%}
 
-| {{ ta.name }} {% if ta.type == 'Mentor' %} (Project only) {% endif %} | [Click to book]({{ ta.calendly }}) | [{{ ta.zoom_id }}]({{ ta.zoom_link }}) |
+| {{ ca.name }} {% if ca.type == 'Mentor' %} (Project only) {% endif %} | [Click to book]({{ ca.calendly }}) | [{{ ca.zoom_id }}]({{ ca.zoom_link }}) |
 {% endunless -%}
 {% endfor %}
 
